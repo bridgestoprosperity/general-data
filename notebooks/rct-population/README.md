@@ -1,0 +1,6 @@
+# Finding the Most Rural Village
+The purpose of this notebook is to create a model to predict the most rural villages connected by B2P bridges. Typically, when a bridge is built it is connecting 2-3 villages. One of those is often more connected to infrastructure, while the other is connected to that infrastructure by the bridge. For this reason, we are trying to answer which is the most rural village connected by a bridge so this data can be used in conjunction with other information to better assess the impact that bridges can have on communities.
+
+We're going to approach this problem by measuring the distance from a village to the nearest road. We'll compare the measurements of each village a bridge connects and rank the villages in order. This ranking will be used to determine which village is the most rural. The rural-villages.ipynb notebook contains the code used to create the model. The data generated can be found in the data products directory. A map of the preliminary data can be found [here](https://studio.unfolded.ai/public/af49d338-2992-4ccf-a612-f93755822673).
+
+It still needs to be decided whether this is a good estimation of which villages are the most rural. Furthermore, it needs to be determined which road type should be used in this ranking. Right now, our best guess is that unclassified or residential roads are the best indicator.

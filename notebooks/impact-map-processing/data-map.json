@@ -1,0 +1,1677 @@
+{
+  "population": {
+    "data_info": {
+      "min": 1,
+      "max": 113340,
+      "mean": 150.5676234857441,
+      "median": 48.0,
+      "std": 581.3796332894971,
+      "quantiles": [7.0, 13.0, 21.0, 32.0, 48.0, 73.0, 113.0, 179.0, 321.0],
+      "98th_percentile": 873.0,
+      "99th_percentile": 1397.0,
+      "2_percentile": 3.0,
+      "1_percentile": 2.0,
+      "style_stops": [7, 21, 48, 179, 873]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "population",
+      "info_text": "Population within highlighted area",
+      "hover_text": "Population",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_0_4": {
+    "data_info": {
+      "min": 0,
+      "max": 12801,
+      "mean": 23.162471976609762,
+      "median": 7.0,
+      "std": 75.44574486267597,
+      "quantiles": [1.0, 2.0, 3.0, 5.0, 7.0, 12.0, 18.0, 29.0, 52.0],
+      "98th_percentile": 137.0,
+      "99th_percentile": 217.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 3, 7, 29, 137]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 0-4",
+      "info_text": "Population between 0-4 years old",
+      "hover_text": "Population 0-4",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_0_4": {
+    "data_info": {
+      "min": 0,
+      "max": 6412,
+      "mean": 11.276509073790931,
+      "median": 3.0,
+      "std": 37.53485817880556,
+      "quantiles": [0.0, 1.0, 1.0, 2.0, 3.0, 5.0, 9.0, 14.0, 26.0],
+      "98th_percentile": 68.0,
+      "99th_percentile": 108.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 14, 68]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 0-4",
+      "info_text": "Female population between 0-4 years old",
+      "hover_text": "Females 0-4",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_0_4": {
+    "data_info": {
+      "min": 0,
+      "max": 6389,
+      "mean": 11.39101643603015,
+      "median": 3.0,
+      "std": 37.92217583775977,
+      "quantiles": [0.0, 1.0, 1.0, 2.0, 3.0, 6.0, 9.0, 14.0, 26.0],
+      "98th_percentile": 69.0,
+      "99th_percentile": 109.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 14, 69]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 0-4",
+      "info_text": "Male population between 0-4 years old",
+      "hover_text": "Males 0-4",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_5_9": {
+    "data_info": {
+      "min": 0,
+      "max": 9674,
+      "mean": 20.817738146148308,
+      "median": 7.0,
+      "std": 65.7146242914721,
+      "quantiles": [1.0, 1.0, 3.0, 4.0, 7.0, 10.0, 16.0, 26.0, 47.0],
+      "98th_percentile": 126.0,
+      "99th_percentile": 198.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 3, 7, 26, 126]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 5-9",
+      "info_text": "Population between 5-9 years old",
+      "hover_text": "Population 5-9",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_5_9": {
+    "data_info": {
+      "min": 0,
+      "max": 4920,
+      "mean": 10.125836827226749,
+      "median": 3.0,
+      "std": 33.0913936389877,
+      "quantiles": [0.0, 0.0, 1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 23.0],
+      "98th_percentile": 62.0,
+      "99th_percentile": 98.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 13, 62]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 5-9",
+      "info_text": "Female population between 5-9 years old",
+      "hover_text": "Females 5-9",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_5_9": {
+    "data_info": {
+      "min": 0,
+      "max": 4753,
+      "mean": 10.20176598816443,
+      "median": 3.0,
+      "std": 32.66250663812142,
+      "quantiles": [0.0, 0.0, 1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 23.0],
+      "98th_percentile": 63.0,
+      "99th_percentile": 99.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 13, 63]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 5-9",
+      "info_text": "Male population between 5-9 years old",
+      "hover_text": "Males 5-9",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_10_14": {
+    "data_info": {
+      "min": 0,
+      "max": 8353,
+      "mean": 18.79196025945458,
+      "median": 6.0,
+      "std": 62.3869599635877,
+      "quantiles": [0.0, 1.0, 2.0, 4.0, 6.0, 9.0, 14.0, 23.0, 42.0],
+      "98th_percentile": 114.0,
+      "99th_percentile": 181.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 6, 23, 114]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 10-14",
+      "info_text": "Population between 10-14 years old",
+      "hover_text": "Population 10-14",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_10_14": {
+    "data_info": {
+      "min": 0,
+      "max": 4380,
+      "mean": 9.129233293603766,
+      "median": 3.0,
+      "std": 32.013559369437274,
+      "quantiles": [0.0, 0.0, 1.0, 2.0, 3.0, 4.0, 7.0, 11.0, 20.0],
+      "98th_percentile": 57.0,
+      "99th_percentile": 90.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 11, 57]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 10-14",
+      "info_text": "Female population between 10-14 years old",
+      "hover_text": "Females 10-14",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_10_14": {
+    "data_info": {
+      "min": 0,
+      "max": 3973,
+      "mean": 9.180037902104472,
+      "median": 3.0,
+      "std": 30.48516132749931,
+      "quantiles": [0.0, 0.0, 1.0, 2.0, 3.0, 4.0, 7.0, 11.0, 21.0],
+      "98th_percentile": 57.0,
+      "99th_percentile": 91.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 11, 57]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 10-14",
+      "info_text": "Male population between 10-14 years old",
+      "hover_text": "Males 10-14",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_0_9": {
+    "data_info": {
+      "min": 0,
+      "max": 22476,
+      "mean": 44.482538443320955,
+      "median": 15.0,
+      "std": 140.8823787879937,
+      "quantiles": [2.0, 4.0, 6.0, 10.0, 15.0, 22.0, 35.0, 56.0, 100.0],
+      "98th_percentile": 263.0,
+      "99th_percentile": 415.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [2, 6, 15, 56, 263]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 0-9",
+      "info_text": "Population between 0-9 years old",
+      "hover_text": "Population 0-9",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_0_9": {
+    "data_info": {
+      "min": 0,
+      "max": 11332,
+      "mean": 21.895114425513842,
+      "median": 7.0,
+      "std": 70.50701750682161,
+      "quantiles": [1.0, 2.0, 3.0, 4.0, 7.0, 11.0, 17.0, 27.0, 49.0],
+      "98th_percentile": 131.0,
+      "99th_percentile": 206.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 3, 7, 27, 131]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 0-9",
+      "info_text": "Female population between 0-9 years old",
+      "hover_text": "Females 0-9",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_0_9": {
+    "data_info": {
+      "min": 0,
+      "max": 11143,
+      "mean": 22.086265306013726,
+      "median": 7.0,
+      "std": 70.40771240354661,
+      "quantiles": [1.0, 2.0, 3.0, 5.0, 7.0, 11.0, 17.0, 28.0, 50.0],
+      "98th_percentile": 132.0,
+      "99th_percentile": 208.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 3, 7, 28, 132]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 0-9",
+      "info_text": "Male population between 0-9 years old",
+      "hover_text": "Males 0-9",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_15_49": {
+    "data_info": {
+      "min": 0,
+      "max": 76642,
+      "mean": 72.43885222392753,
+      "median": 22.0,
+      "std": 343.4538505850886,
+      "quantiles": [3.0, 6.0, 9.0, 14.0, 22.0, 33.0, 51.0, 81.0, 147.0],
+      "98th_percentile": 415.0,
+      "99th_percentile": 671.0,
+      "2_percentile": 1.0,
+      "1_percentile": 1.0,
+      "style_stops": [3, 9, 22, 81, 415]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 15-49",
+      "info_text": "Population between 15-49 years old",
+      "hover_text": "Population 15-49",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_15_49": {
+    "data_info": {
+      "min": 0,
+      "max": 35529,
+      "mean": 36.07428153814934,
+      "median": 11.0,
+      "std": 167.9058505253443,
+      "quantiles": [1.0, 3.0, 4.0, 7.0, 11.0, 16.0, 25.0, 41.0, 74.0],
+      "98th_percentile": 210.0,
+      "99th_percentile": 337.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 4, 11, 41, 210]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 15-49",
+      "info_text": "Female population between 15-49 years old",
+      "hover_text": "Females 15-49",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_15_49": {
+    "data_info": {
+      "min": 0,
+      "max": 41112,
+      "mean": 35.86117300862605,
+      "median": 11.0,
+      "std": 175.95443160707435,
+      "quantiles": [1.0, 3.0, 4.0, 7.0, 11.0, 16.0, 25.0, 40.0, 72.0],
+      "98th_percentile": 205.0,
+      "99th_percentile": 335.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 4, 11, 40, 205]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 15-49",
+      "info_text": "Male population between 15-49 years old",
+      "hover_text": "Males 15-49",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_50_64": {
+    "data_info": {
+      "min": 0,
+      "max": 4857,
+      "mean": 9.026594433437154,
+      "median": 2.0,
+      "std": 33.37725150811643,
+      "quantiles": [0.0, 0.0, 1.0, 1.0, 2.0, 4.0, 7.0, 11.0, 20.0],
+      "98th_percentile": 58.0,
+      "99th_percentile": 92.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 2, 11, 58]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 50-64",
+      "info_text": "Population between 50-64 years old",
+      "hover_text": "Population 50-64",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_50_64": {
+    "data_info": {
+      "min": 0,
+      "max": 2016,
+      "mean": 4.45214847202601,
+      "median": 1.0,
+      "std": 16.586847936748757,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 1.0, 2.0, 3.0, 5.0, 10.0],
+      "98th_percentile": 31.0,
+      "99th_percentile": 47.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 2, 5, 31]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 50-64",
+      "info_text": "Female population between 50-64 years old",
+      "hover_text": "Females 50-64",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_50_64": {
+    "data_info": {
+      "min": 0,
+      "max": 2907,
+      "mean": 4.145329338098298,
+      "median": 1.0,
+      "std": 17.034576545903466,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 1.0, 2.0, 3.0, 5.0, 9.0],
+      "98th_percentile": 28.0,
+      "99th_percentile": 44.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 2, 5, 28]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 50-64",
+      "info_text": "Male population between 50-64 years old",
+      "hover_text": "Males 50-64",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pop_65_plus": {
+    "data_info": {
+      "min": 0,
+      "max": 2009,
+      "mean": 3.8776632815008574,
+      "median": 1.0,
+      "std": 13.542633202900273,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 1.0, 2.0, 3.0, 5.0, 9.0],
+      "98th_percentile": 27.0,
+      "99th_percentile": 42.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 5, 27]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Population 65+",
+      "info_text": "Population 65 years and older",
+      "hover_text": "Population 65+",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "females_65_plus": {
+    "data_info": {
+      "min": 0,
+      "max": 1098,
+      "mean": 1.992325622955909,
+      "median": 0.0,
+      "std": 7.780690961163075,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 2.0, 5.0],
+      "98th_percentile": 15.0,
+      "99th_percentile": 23.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 4, 15]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Females 65+",
+      "info_text": "Female population 65 years and older",
+      "hover_text": "Females 65+",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "males_65_plus": {
+    "data_info": {
+      "min": 0,
+      "max": 911,
+      "mean": 1.5464479974505918,
+      "median": 0.0,
+      "std": 5.81411203134935,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 2.0, 4.0],
+      "98th_percentile": 12.0,
+      "99th_percentile": 18.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 3, 4, 12]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Males 65+",
+      "info_text": "Male population 65 years and older",
+      "hover_text": "Males 65+",
+      "unit": "people",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less People", "More People"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "births": {
+    "data_info": {
+      "min": 0,
+      "max": 2792,
+      "mean": 3.5841103684485565,
+      "median": 1.0,
+      "std": 15.460893867671844,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 1.0, 2.0, 3.0, 4.0, 8.0],
+      "98th_percentile": 24.0,
+      "99th_percentile": 36.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 2, 4, 24]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Births",
+      "info_text": "Births per year in selected polygon",
+      "hover_text": "Births",
+      "unit": "births/yr",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less Births", "More Births"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "pregnancies": {
+    "data_info": {
+      "min": 0,
+      "max": 3953,
+      "mean": 5.218477106421806,
+      "median": 1.0,
+      "std": 21.80739905784345,
+      "quantiles": [0.0, 0.0, 0.0, 1.0, 1.0, 2.0, 4.0, 6.0, 12.0],
+      "98th_percentile": 33.0,
+      "99th_percentile": 51.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [1, 2, 2, 4, 33]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Pregnancies",
+      "info_text": "Pregnancies per year in selected polygon",
+      "hover_text": "Pregnancies",
+      "unit": "pregnancies/yr",
+      "color_scale": "magma",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less Pregnancies", "More Pregnancies"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "rwi": {
+    "data_info": {
+      "min": -1.397,
+      "max": 1.89,
+      "mean": -0.3497454989434776,
+      "median": -0.38,
+      "std": 0.26169125615348826,
+      "quantiles": [
+        -0.629, -0.545, -0.485, -0.431, -0.38, -0.326, -0.266, -0.188, -0.055
+      ],
+      "98th_percentile": 0.332,
+      "99th_percentile": 0.544,
+      "2_percentile": -0.778,
+      "1_percentile": -0.832,
+      "style_stops": [-0.778, -0.389, 0, 0.166, 0.332]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Relative Wealth Index",
+      "info_text": "Relative Wealth Index",
+      "hover_text": "Relative Wealth Index",
+      "unit": "",
+      "color_scale": "rdbu",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less Wealthy", "More Wealthy"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "underweight": {
+    "data_info": {
+      "min": 0.044,
+      "max": 0.486,
+      "mean": 0.181835118096584,
+      "median": 0.156,
+      "std": 0.07625358198254628,
+      "quantiles": [
+        0.106, 0.118, 0.128, 0.141, 0.156, 0.175, 0.213, 0.256, 0.298
+      ],
+      "98th_percentile": 0.366,
+      "99th_percentile": 0.389,
+      "2_percentile": 0.086,
+      "1_percentile": 0.076,
+      "style_stops": [0.106, 0.128, 0.156, 0.213, 0.298]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Underweight Percentage",
+      "info_text": "Percentage of population underweight in selected polygon",
+      "hover_text": "Underweight",
+      "unit": "percentile",
+      "color_scale": "rdbu",
+      "reverse_color_scale": true,
+      "legend_labels": ["Less Underweight", "More Underweight"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "female_educational_attainment_mean": {
+    "data_info": {
+      "min": 0.1,
+      "max": 11.8,
+      "mean": 4.185838435136113,
+      "median": 4.4,
+      "std": 2.2543574828058275,
+      "quantiles": [1.3, 1.9, 2.5, 3.1, 4.4, 5.1, 5.6, 6.3, 7.1],
+      "98th_percentile": 8.7,
+      "99th_percentile": 9.1,
+      "2_percentile": 0.6,
+      "1_percentile": 0.5,
+      "style_stops": [2.6, 4.0, 5.3, 7.0, 9.0]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Average Female Educational Attainment",
+      "info_text": "Average years of education for females in selected polygon",
+      "hover_text": "Female Education",
+      "unit": "years",
+      "color_scale": "rdbu",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less Educated", "More Educated"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "male_educational_attainment_mean": {
+    "data_info": {
+      "min": 0.5,
+      "max": 12.4,
+      "mean": 5.242348894053786,
+      "median": 5.3,
+      "std": 1.9336756833438462,
+      "quantiles": [2.6, 3.3, 4.0, 4.6, 5.3, 6.0, 6.5, 7.0, 7.6],
+      "98th_percentile": 9.0,
+      "99th_percentile": 9.3,
+      "2_percentile": 1.8,
+      "1_percentile": 1.5,
+      "style_stops": [2.6, 4.0, 5.3, 7.0, 9.0]
+    },
+    "meta_info": {
+      "category": "Demographics",
+      "name": "Average Male Educational Attainment",
+      "info_text": "Average years of education for males in selected polygon",
+      "hover_text": "male Education",
+      "unit": "years",
+      "color_scale": "rdbu",
+      "reverse_color_scale": false,
+      "legend_labels": ["Less Educated", "More Educated"]
+    },
+    "travel_time": {
+      "travel_time": false,
+      "bridges": false,
+      "destination": false
+    }
+  },
+  "travel_time_no_sites_all_health": {
+    "data_info": {
+      "min": 0.0,
+      "max": 2868.0,
+      "mean": 428.2039221771016,
+      "median": 332.0,
+      "std": 350.4894200353326,
+      "quantiles": [
+        59.0, 135.0, 197.0, 261.0, 332.0, 419.0, 534.0, 701.0, 966.0
+      ],
+      "98th_percentile": 1348.0,
+      "99th_percentile": 1421.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 45, 90, 120, 150]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "All Health",
+      "info_text": "Travel time to all health facilities without bridges for the population.",
+      "hover_text": "Health travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "hospital"
+    }
+  },
+  "time_delta_no_sites_semi_dense_urban": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1487.0,
+      "mean": 15.071225496805333,
+      "median": 0.0,
+      "std": 69.8556217785523,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.0],
+      "98th_percentile": 239.0,
+      "99th_percentile": 367.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Major Market",
+      "info_text": "Impact on travel time to major markets without bridges for the population.",
+      "hover_text": "Market impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "Major Market"
+    }
+  },
+  "travel_time_health_posts": {
+    "data_info": {
+      "min": 0,
+      "max": 3188,
+      "mean": 305.4104949019103,
+      "median": 228.0,
+      "std": 269.8783211847653,
+      "quantiles": [
+        60.0, 103.0, 142.0, 182.0, 228.0, 282.0, 353.0, 457.0, 653.0
+      ],
+      "98th_percentile": 1160.0,
+      "99th_percentile": 1322.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 45, 90, 120, 150]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Health Posts",
+      "info_text": "Travel time to health posts with bridges for the population.",
+      "hover_text": "Posts travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "health posts"
+    }
+  },
+  "travel_time_major_roads": {
+    "data_info": {
+      "min": 0,
+      "max": 2851,
+      "mean": 337.14088627770434,
+      "median": 236.0,
+      "std": 329.9527642787656,
+      "quantiles": [
+        12.0, 55.0, 107.0, 166.0, 236.0, 320.0, 428.0, 578.0, 823.0
+      ],
+      "98th_percentile": 1273.0,
+      "99th_percentile": 1382.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 60, 105, 150, 210]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Major Roads",
+      "info_text": "Travel time to major roads with bridges for the population.",
+      "hover_text": "Roads travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "major roads"
+    }
+  },
+  "travel_time_no_sites_secondary_schools": {
+    "data_info": {
+      "min": 0.0,
+      "max": 3189.0,
+      "mean": 347.1091774332221,
+      "median": 172.0,
+      "std": 413.43750875356903,
+      "quantiles": [0.0, 0.0, 0.0, 84.0, 172.0, 293.0, 466.0, 708.0, 1036.0],
+      "98th_percentile": 1394.780000000028,
+      "99th_percentile": 1446.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 30, 45, 60, 90]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Secondary Schools",
+      "info_text": "Travel time to secondary schools without bridges for the population.",
+      "hover_text": "Schools travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "secondary schools"
+    }
+  },
+  "travel_time_secondary_schools": {
+    "data_info": {
+      "min": 0,
+      "max": 3189,
+      "mean": 348.44982620533875,
+      "median": 178.0,
+      "std": 412.08657180298377,
+      "quantiles": [0.0, 0.0, 0.0, 91.0, 178.0, 295.0, 463.0, 704.0, 1035.0],
+      "98th_percentile": 1397.0,
+      "99th_percentile": 1447.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 30, 45, 60, 90]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Secondary Schools",
+      "info_text": "Travel time to secondary schools with bridges for the population.",
+      "hover_text": "Schools travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "secondary schools"
+    }
+  },
+  "travel_time_no_sites_health_centers": {
+    "data_info": {
+      "min": 0.0,
+      "max": 2868.0,
+      "mean": 428.2039221771016,
+      "median": 332.0,
+      "std": 350.4894200353326,
+      "quantiles": [
+        59.0, 135.0, 197.0, 261.0, 332.0, 419.0, 534.0, 701.0, 966.0
+      ],
+      "98th_percentile": 1348.0,
+      "99th_percentile": 1421.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 45, 90, 120, 150]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Health Centers",
+      "info_text": "Travel time to health centers without bridges for the population.",
+      "hover_text": "Centers travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "health centers"
+    }
+  },
+  "travel_time_no_sites_major_roads": {
+    "data_info": {
+      "min": 0.0,
+      "max": 2851.0,
+      "mean": 347.5531438294077,
+      "median": 243.0,
+      "std": 338.9666538735703,
+      "quantiles": [
+        11.0, 54.0, 108.0, 171.0, 243.0, 332.0, 446.0, 603.0, 854.0
+      ],
+      "98th_percentile": 1288.0,
+      "99th_percentile": 1390.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 60, 105, 150, 210]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Major Roads",
+      "info_text": "Travel time to major roads without bridges for the population.",
+      "hover_text": "Roads travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "major roads"
+    }
+  },
+  "time_delta_no_sites_secondary_schools": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1470.0,
+      "mean": 9.610618958065261,
+      "median": 0.0,
+      "std": 58.84546014636781,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "98th_percentile": 160.0,
+      "99th_percentile": 294.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Secondary Schools",
+      "info_text": "Impact on travel time to secondary schools without bridges for the population.",
+      "hover_text": "Schools impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "secondary schools"
+    }
+  },
+  "time_delta_no_sites_all_health": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1497.0,
+      "mean": 13.489747499848475,
+      "median": 0.0,
+      "std": 67.23345399416591,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0],
+      "98th_percentile": 217.0,
+      "99th_percentile": 348.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "All Health",
+      "info_text": "Impact on travel time to all health facilities without bridges for the population.",
+      "hover_text": "Health impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "hospital"
+    }
+  },
+  "travel_time_health_centers": {
+    "data_info": {
+      "min": 0,
+      "max": 2868,
+      "mean": 419.93794632197995,
+      "median": 324.0,
+      "std": 345.06964600019086,
+      "quantiles": [
+        62.0, 134.0, 193.0, 255.0, 324.0, 408.0, 520.0, 683.0, 948.0
+      ],
+      "98th_percentile": 1339.0,
+      "99th_percentile": 1416.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 45, 90, 120, 150]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Health Centers",
+      "info_text": "Travel time to health centers with bridges for the population.",
+      "hover_text": "Centers travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "health centers"
+    }
+  },
+  "time_delta_no_sites_health_centers": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1497.0,
+      "mean": 13.489747499848475,
+      "median": 0.0,
+      "std": 67.23345399416591,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0],
+      "98th_percentile": 217.0,
+      "99th_percentile": 348.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Health Centers",
+      "info_text": "Impact on travel time to health centers without bridges for the population.",
+      "hover_text": "Centers impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "health centers"
+    }
+  },
+  "time_delta_no_sites_major_roads": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1607.0,
+      "mean": 14.664357976276461,
+      "median": 0.0,
+      "std": 70.21384039883215,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 6.0],
+      "98th_percentile": 232.0,
+      "99th_percentile": 365.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Major Roads",
+      "info_text": "Impact on travel time to major roads without bridges for the population.",
+      "hover_text": "Roads impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "major roads"
+    }
+  },
+  "travel_time_semi_dense_urban": {
+    "data_info": {
+      "min": 0,
+      "max": 3077,
+      "mean": 467.56278232248945,
+      "median": 394.0,
+      "std": 371.28626253519144,
+      "quantiles": [
+        0.0, 131.0, 223.0, 307.0, 394.0, 493.0, 614.0, 775.0, 1023.0
+      ],
+      "98th_percentile": 1382.0,
+      "99th_percentile": 1445.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 60, 105, 150, 210]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Major Market",
+      "info_text": "Travel time to major markets with bridges for the population.",
+      "hover_text": "Market travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "Major Market"
+    }
+  },
+  "time_delta_no_sites_major_hospitals": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1323.0,
+      "mean": 7.449115343860898,
+      "median": 0.0,
+      "std": 45.433162013815796,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "98th_percentile": 125.0,
+      "99th_percentile": 224.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Major Hospitals",
+      "info_text": "Impact on travel time to major hospitals without bridges for the population.",
+      "hover_text": "Hospitals impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "major hospitals"
+    }
+  },
+  "travel_time_all_health": {
+    "data_info": {
+      "min": 0,
+      "max": 2868,
+      "mean": 419.93794632197995,
+      "median": 324.0,
+      "std": 345.06964600019086,
+      "quantiles": [
+        62.0, 134.0, 193.0, 255.0, 324.0, 408.0, 520.0, 683.0, 948.0
+      ],
+      "98th_percentile": 1339.0,
+      "99th_percentile": 1416.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 45, 90, 120, 150]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "All Health",
+      "info_text": "Travel time to all health facilities with bridges for the population.",
+      "hover_text": "Health travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "hospital"
+    }
+  },
+  "travel_time_no_sites_primary_schools": {
+    "data_info": {
+      "min": 0.0,
+      "max": 2880.0,
+      "mean": 226.59683345289247,
+      "median": 76.0,
+      "std": 343.3891401965126,
+      "quantiles": [0.0, 0.0, 14.0, 43.0, 76.0, 122.0, 199.0, 370.0, 769.0],
+      "98th_percentile": 1323.0,
+      "99th_percentile": 1408.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 30, 45, 60, 90]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Primary Schools",
+      "info_text": "Travel time to primary schools without bridges for the population.",
+      "hover_text": "Schools travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "primary schools"
+    }
+  },
+  "travel_time_no_sites_semi_dense_urban": {
+    "data_info": {
+      "min": 0.0,
+      "max": 3077.0,
+      "mean": 475.4741715546149,
+      "median": 403.0,
+      "std": 377.7624104784382,
+      "quantiles": [
+        0.0, 128.0, 224.90000000002328, 312.0, 403.0, 505.0, 630.0, 793.0,
+        1042.0
+      ],
+      "98th_percentile": 1389.0,
+      "99th_percentile": 1450.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 60, 105, 150, 210]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Major Market",
+      "info_text": "Travel time to major markets without bridges for the population.",
+      "hover_text": "Market travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "Major Market"
+    }
+  },
+  "time_delta_no_sites_health_posts": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1616.0,
+      "mean": 14.863475896465216,
+      "median": 0.0,
+      "std": 71.8985223588497,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 6.0],
+      "98th_percentile": 235.0,
+      "99th_percentile": 372.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Health Posts",
+      "info_text": "Impact on travel time to health posts without bridges for the population.",
+      "hover_text": "Posts impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "health posts"
+    }
+  },
+  "travel_time_no_sites_all_education": {
+    "data_info": {
+      "min": 0.0,
+      "max": 2880.0,
+      "mean": 305.92727884980695,
+      "median": 147.0,
+      "std": 360.02783799831394,
+      "quantiles": [0.0, 31.0, 59.0, 95.0, 147.0, 229.0, 365.0, 573.0, 885.0],
+      "98th_percentile": 1328.0,
+      "99th_percentile": 1409.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 30, 45, 60, 90]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "All Education",
+      "info_text": "Travel time to all education facilities without bridges for the population.",
+      "hover_text": "Education travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "all education"
+    }
+  },
+  "travel_time_major_hospitals": {
+    "data_info": {
+      "min": 0,
+      "max": 3030,
+      "mean": 514.4728435247504,
+      "median": 442.0,
+      "std": 474.5503497131979,
+      "quantiles": [0.0, 0.0, 0.0, 269.0, 442.0, 618.0, 803.0, 1005.0, 1233.0],
+      "98th_percentile": 1443.0,
+      "99th_percentile": 1477.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 60, 105, 150, 210]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Major Hospitals",
+      "info_text": "Travel time to major hospitals with bridges for the population.",
+      "hover_text": "Hospitals travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "major hospitals"
+    }
+  },
+  "travel_time_no_sites_major_hospitals": {
+    "data_info": {
+      "min": 0.0,
+      "max": 3030.0,
+      "mean": 505.16093213259626,
+      "median": 425.0,
+      "std": 475.48192403618657,
+      "quantiles": [0.0, 0.0, 0.0, 249.0, 425.0, 605.0, 793.0, 999.0, 1229.0],
+      "98th_percentile": 1441.0,
+      "99th_percentile": 1477.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 60, 105, 150, 210]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Major Hospitals",
+      "info_text": "Travel time to major hospitals without bridges for the population.",
+      "hover_text": "Hospitals travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "major hospitals"
+    }
+  },
+  "travel_time_primary_schools": {
+    "data_info": {
+      "min": 0,
+      "max": 2880,
+      "mean": 220.83346805224542,
+      "median": 77.0,
+      "std": 338.9219328263141,
+      "quantiles": [0.0, 0.0, 16.0, 45.0, 77.0, 120.0, 189.0, 341.0, 748.0],
+      "98th_percentile": 1323.0,
+      "99th_percentile": 1408.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 30, 45, 60, 90]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Primary Schools",
+      "info_text": "Travel time to primary schools with bridges for the population.",
+      "hover_text": "Schools travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "primary schools"
+    }
+  },
+  "time_delta_no_sites_primary_schools": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1717.0,
+      "mean": 12.385664348722754,
+      "median": 0.0,
+      "std": 76.54738135476262,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "98th_percentile": 202.0,
+      "99th_percentile": 383.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "Primary Schools",
+      "info_text": "Impact on travel time to primary schools without bridges for the population.",
+      "hover_text": "Schools impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "primary schools"
+    }
+  },
+  "travel_time_all_education": {
+    "data_info": {
+      "min": 0,
+      "max": 2880,
+      "mean": 296.84437762042006,
+      "median": 143.0,
+      "std": 352.52428712632945,
+      "quantiles": [0.0, 33.0, 61.0, 95.0, 143.0, 216.0, 342.0, 545.0, 859.0],
+      "98th_percentile": 1322.0,
+      "99th_percentile": 1406.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 30, 45, 60, 90]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "All Education",
+      "info_text": "Travel time to all education facilities with bridges for the population.",
+      "hover_text": "Education travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "with bridges",
+      "destination": "all education"
+    }
+  },
+  "time_delta_no_sites_all_education": {
+    "data_info": {
+      "min": 0.0,
+      "max": 1717.0,
+      "mean": 16.895730154332416,
+      "median": 0.0,
+      "std": 86.68887771798288,
+      "quantiles": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "98th_percentile": 279.0,
+      "99th_percentile": 460.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [0, 1, 15, 30, 45]
+    },
+    "meta_info": {
+      "category": "Impact",
+      "name": "All Education",
+      "info_text": "Impact on travel time to all education facilities without bridges for the population.",
+      "hover_text": "Education impact",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": false,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "all education"
+    }
+  },
+  "travel_time_no_sites_health_posts": {
+    "data_info": {
+      "min": 0.0,
+      "max": 3188.0,
+      "mean": 318.4406857606961,
+      "median": 238.0,
+      "std": 279.5471076050609,
+      "quantiles": [
+        60.0, 105.0, 146.0, 189.0, 238.0, 296.0, 373.0, 483.0, 688.0
+      ],
+      "98th_percentile": 1188.0,
+      "99th_percentile": 1338.0,
+      "2_percentile": 0.0,
+      "1_percentile": 0.0,
+      "style_stops": [15, 45, 90, 120, 150]
+    },
+    "meta_info": {
+      "category": "Travel Time",
+      "name": "Health Posts",
+      "info_text": "Travel time to health posts without bridges for the population.",
+      "hover_text": "Posts travel time",
+      "unit": "people",
+      "color_scale": "rdylgn",
+      "reverse_color_scale": true,
+      "legend_labels": ["Shorter", "Longer"]
+    },
+    "travel_time": {
+      "travel_time": true,
+      "bridges": "without bridges",
+      "destination": "health posts"
+    }
+  }
+}

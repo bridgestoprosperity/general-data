@@ -1,182 +1,129 @@
-Validation failed for Uwumugeti-Kigusa_destination_village_gdf: Mismatch in admin codes.
-Unmatched admin codes for Uwumugeti-Kigusa_destination_village_gdf: 
-{'251606', '350205', '251601', '250905', '251602', '250904', '251605', 'nan', '2517', '2313'}
-Matched admin codes for Uwumugeti-Kigusa_destination_village_gdf: 
-{'25160503', '25160504', '25160301', '25160506', '25090502', '25060601', '25040305', '25160302', '25160510', '25090503', '25160501', '25080304', '25160107', '25160509'}
-
-Total matched admin codes: 492
-Total unmatched admin codes: 171
 Validation successful for Gahororo_home_village_gdf: All admin codes matched.
 Matched admin codes for Gahororo_home_village_gdf: 
 {'24030307', '24090103', '24070508', '24020109', '24020403', '24060402', '24030204', '24030203', '24030306', '23140302', '24010202', '24030501', '24020108', '24030504', '24030101', '24030503', '23140303', '24010101', '24030205', '23140501', '24030502', '24030505', '24030202', '24030201'}
 
-Total matched admin codes: 24
-Total unmatched admin codes: 0
 Validation failed for Gasasa_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Gasasa_home_village_gdf: 
 {'350205', '350103', '3501', '351306', '350101', '3204', '350206', '351303'}
 Matched admin codes for Gasasa_home_village_gdf: 
 {'35130301', '35130305', '35010104', '31110804', '35080506', '35130605', '35050105', '35130601', '35030104', '35010301', '35010403', '35010303', '35030304', '35030504', '35130306', '37040503', '35020604', '35130302', '32130401', '35010302'}
 
-Total matched admin codes: 44
-Total unmatched admin codes: 8
 Validation successful for Kanyarira_home_village_gdf: All admin codes matched.
 Matched admin codes for Kanyarira_home_village_gdf: 
 {'26070402', '27080201', '26040301', '33040403', '26070602', '26070607', '26020103', '26070603', '26020404', '11090307', '21010412', '27080101', '26070401', '26030103', '26020407', '26070601', '26070403', '27120101', '11030309', '35010101', '26070202', '27080303', '26020111', '27080202', '26070606', '26070203', '31070303', '26030105', '26020401', '27050206', '27090402', '28010306', '43110202', '26070604', '26070605', '26070406', '26020203', '26090215', '26070405'}
 
-Total matched admin codes: 83
-Total unmatched admin codes: 8
 Validation failed for Muhembe_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Muhembe_home_village_gdf: 
 {'351105', '3503', '350602', '3505', '350403', '350506', '350301', '350402', '3507', '35'}
 Matched admin codes for Muhembe_home_village_gdf: 
 {'35050602', '35070501', '35050601', '35090603', '37040503', '35110504', '35130202', '35110601', '35110501', '35050603', '35030101', '35080602', '35100502', '42010604', '35070105', '35050301', '35020103', '35030104'}
 
-Total matched admin codes: 101
-Total unmatched admin codes: 18
 Validation successful for Muregeya_home_village_gdf: All admin codes matched.
 Matched admin codes for Muregeya_home_village_gdf: 
 {'31090805', '32010407', '31110203', '32100503', '31090305', '32100204', '32100406', '32060604', '32040107', '31100102', '32100505', '32020202', '31130402', '32100401', '41070105', '31090107', '31090602', '32100203', '11030309', '32100405', '31010402', '32100106', '31010104', '31100505', '31090506', '32100105', '31090603', '32080406', '32100403', '32100307'}
 
-Total matched admin codes: 131
-Total unmatched admin codes: 18
 Validation failed for Mutiwingoma_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Mutiwingoma_home_village_gdf: 
 {'2503', '251001', '250504', '240403', '2505', '250403', '2508', '2514', '2502', '2404', '251002', '2507', '2511', '2513', '250701', '24', '2512'}
 Matched admin codes for Mutiwingoma_home_village_gdf: 
 {'25100102', '25080103', '25070503', '25100204', '35130403', '25140304', '25050404', '25080303', '25080301', '25050402', '25050107', '25100203', '25050403', '25050408', '25080201', '25080304', '25080405', '25050405', '25080403', '25020106', '25100201'}
 
-Total matched admin codes: 152
-Total unmatched admin codes: 35
 Validation failed for Nyarusange_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Nyarusange_home_village_gdf: 
 {'1213', '120603', '411601', '42', '370501', '3510', '4116', '1108', '351303', '1303', '1102', '110203', '120602', '1209', '411605', '41', '13', '120604', '110202', '1206', '1204', '28', '120607', '1202', '1', '110201', '110301'}
 Matched admin codes for Nyarusange_home_village_gdf: 
 {'12060302', '12060701', '12060401', '11020104', '35130305', '12050405', '41160407', '11020203', '41160503', '41160505', '11020306', '35050105', '11080401', '12060202', '11010202', '11020302', '11020105', '11040316', '12150205', '12120406', '35030104', '11090101', '11030309', '12050210', '35030304', '11020304', '32130401', '12100103', '25160107'}
 
-Total matched admin codes: 181
-Total unmatched admin codes: 62
 Validation failed for Rugeshi_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Rugeshi_home_village_gdf: 
 {'350103', '3501', '351306', '351302', '3206', '350601', '321304', '3505', '120603', '1', '3512', '350204', '351001', '351303'}
 Matched admin codes for Rugeshi_home_village_gdf: 
 {'35090603', '35130301', '35120305', '35100401', '35080506', '35130304', '35050105', '35010304', '35130606', '35030104', '35010301', '35100206', '25070601', '35010403', '35010303', '35100402', '35030304', '35130306', '35100103', '35130101', '35130302', '32130401', '35100405', '35050301', '35010302', '35130201'}
 
-Total matched admin codes: 207
-Total unmatched admin codes: 76
 Validation successful for Ruharazi_home_village_gdf: All admin codes matched.
 Matched admin codes for Ruharazi_home_village_gdf: 
 {'23110204', '23090203', '23110306', '23140201', '23110202', '23110102', '23110303'}
 
-Total matched admin codes: 214
-Total unmatched admin codes: 76
 Validation failed for Rwamamara_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Rwamamara_home_village_gdf: 
 {'3511502', '35110507'}
 Matched admin codes for Rwamamara_home_village_gdf: 
 {'35110502', '35110503', '33040403', '35100105', '35050603', '24090103', '35110506', '35050604', '35050602', '11030309', '34070203', '27080303', '35030207', '35050601', '35120105', '33050306', '35110505', '35110501', '35040308', '35030101', '35110301'}
 
-Total matched admin codes: 235
-Total unmatched admin codes: 78
 Validation failed for Rwimvubu_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Rwimvubu_home_village_gdf: 
 {'******'}
 Matched admin codes for Rwimvubu_home_village_gdf: 
 {'23070105', '23070103', '23070104', '24090103', '23020301', '23010502', '23030603', '23010504', '23010403', '21010412', '23010101', '24030306', '23110303', '23010506', '24010103', '23120104', '23010405', '23070501', '23010505', '23010203', '23010503', '23030501', '23030203', '23070202', '23120502', '23060103', '23010204', '23020201', '26070604', '23010301'}
 
-Total matched admin codes: 265
-Total unmatched admin codes: 79
 Validation failed for Uwumugeti-Kigusa_home_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Uwumugeti-Kigusa_home_village_gdf: 
 {'251601', '250602', '250905', '251602', '250904', '251605', '2506', '1', '2313'}
 Matched admin codes for Uwumugeti-Kigusa_home_village_gdf: 
 {'25160504', '25160301', '25160302', '23130401', '25160510', '25010202', '25090503', '25160501', '25080304', '25160107', '25160509'}
 
-Total matched admin codes: 276
-Total unmatched admin codes: 88
 Validation successful for Gahororo_destination_village_gdf: All admin codes matched.
 Matched admin codes for Gahororo_destination_village_gdf: 
 {'24010202', '24030501', '24030502', '24030307', '24030306', '28080207', '24030505', '24030201'}
 
-Total matched admin codes: 284
-Total unmatched admin codes: 88
 Validation failed for Gasasa_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Gasasa_destination_village_gdf: 
 {'350103', '3501', '351306', '1202', '350101', '321304', '350605', 'nan', '3509', '351303'}
 Matched admin codes for Gasasa_destination_village_gdf: 
 {'35040206', '35130301', '35010404', '35080506', '35050604', '35050105', '35010304', '35130601', '35030104', '35010301', '35100206', '35010101', '35010403', '35010303', '35090105', '35130306', '35130302', '35020101', '35010302'}
 
-Total matched admin codes: 303
-Total unmatched admin codes: 98
 Validation successful for Kanyarira_destination_village_gdf: All admin codes matched.
 Matched admin codes for Kanyarira_destination_village_gdf: 
 {'26070402', '27080201', '26070204', '26070602', '24090103', '26070607', '26020103', '26070603', '27080204', '26020404', '27080101', '26070401', '28060101', '26020407', '27050305', '21020105', '26020408', '11030309', '27080205', '27080303', '28120504', '26020608', '26020111', '26020401', '27090402', '28010306', '43110202', '26020203', '26070604', '26070406', '26070605', '26020601', '26070405'}
 
-Total matched admin codes: 336
-Total unmatched admin codes: 98
 Validation failed for Muhembe_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Muhembe_destination_village_gdf: 
 {'351105', '3503', '350302', '350902', '251002', '33', '3304', '350303', '350506', '3506', '3504'}
 Matched admin codes for Muhembe_destination_village_gdf: 
 {'35050602', '12060505', '35090603', '35050604', '35110102', '35110601', '35110501', '35050603', '35100502', '35020602', '35080201', '35030101', '42010604', '35050301', '35020103', '35030104'}
 
-Total matched admin codes: 352
-Total unmatched admin codes: 109
 Validation successful for Muregeya_destination_village_gdf: All admin codes matched.
 Matched admin codes for Muregeya_destination_village_gdf: 
 {'32120404', '31090304', '32030107', '32100503', '31090305', '32100406', '31100102', '32100505', '32020204', '32110106', '32100401', '11030309', '31100506', '32100306', '31090302', '32100405', '31010402', '31010104', '31100505', '31090506', '31090603', '32100403', '32020103', '36090403', '25030401'}
 
-Total matched admin codes: 377
-Total unmatched admin codes: 109
 Validation failed for Mutiwingoma_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Mutiwingoma_destination_village_gdf: 
 {'250205', '251001', '250504', '2508', '2505', '250403', '3108', '25', '2502', '251002', '36', '2511', '24', '55'}
 Matched admin codes for Mutiwingoma_destination_village_gdf: 
 {'25080405', '25130602', '25050402', '25100102', '25080403', '25070202', '25050403', '25050404', '25070503', '25080201', '25020106', '25100201', '25080303', '25060403'}
 
-Total matched admin codes: 391
-Total unmatched admin codes: 123
 Validation failed for Nyarusange_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Nyarusange_destination_village_gdf: 
 {'1213', '120603', '251002', '411601', '42', '370501', '350103', 'nan', '1103', '4116', '1108', '1102', '110203', '120602', '120604', '1206', '110202', '1204', '120607', '1', '110201', '110301'}
 Matched admin codes for Nyarusange_destination_village_gdf: 
 {'11090101', '12060201', '11030309', '11020106', '12050210', '12060701', '35050105', '12060403', '11010202', '41160505', '11020302', '35030304', '12050402', '11020304'}
 
-Total matched admin codes: 405
-Total unmatched admin codes: 145
 Validation failed for Rugeshi_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Rugeshi_destination_village_gdf: 
 {'350205', '350103', '3501', '3503', '351306', '351302', '3206', '350601', '321304', '3505', '120603', '3513', 'nan', '311007', '351303'}
 Matched admin codes for Rugeshi_destination_village_gdf: 
 {'35010301', '31120801', '35100401', '35130306', '35100206', '35090603', '35130301', '35050105', '35010403', '35010303', '32130401', '35130302', '35130403', '35100405', '35030304', '35010302', '35030104'}
 
-Total matched admin codes: 422
-Total unmatched admin codes: 160
 Validation successful for Ruharazi_destination_village_gdf: All admin codes matched.
 Matched admin codes for Ruharazi_destination_village_gdf: 
 {'23090104', '23110204', '23090203', '24010202', '23110306', '23080101', '23020505', '23110102', '23110303', '23020506', '23020103'}
 
-Total matched admin codes: 433
-Total unmatched admin codes: 160
 Validation successful for Rwamamara_destination_village_gdf: All admin codes matched.
 Matched admin codes for Rwamamara_destination_village_gdf: 
 {'35110503', '33040403', '35100105', '35070204', '35110506', '35030103', '35050604', '35110107', '35040301', '35050602', '11030309', '34070203', '27080303', '35050601', '35110505', '35090302', '35110501', '35030101', '35020103'}
 
-Total matched admin codes: 452
-Total unmatched admin codes: 160
 Validation failed for Rwimvubu_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Rwimvubu_destination_village_gdf: 
 {'nan'}
 Matched admin codes for Rwimvubu_destination_village_gdf: 
 {'23070105', '23070103', '23070104', '23070101', '23020403', '24090103', '23070102', '23020502', '23010502', '23010504', '23010403', '23110303', '23070306', '23010506', '23010405', '23070501', '23010503', '23030501', '23030203', '23070202', '23020102', '23060103', '23010204', '23020201', '24030505', '23070504'}
 
-Total matched admin codes: 478
-Total unmatched admin codes: 161
 Validation failed for Uwumugeti-Kigusa_destination_village_gdf: Mismatch in admin codes.
 Unmatched admin codes for Uwumugeti-Kigusa_destination_village_gdf: 
 {'251606', '350205', '251601', '250905', '251602', '250904', '251605', 'nan', '2517', '2313'}
 Matched admin codes for Uwumugeti-Kigusa_destination_village_gdf: 
 {'25160503', '25160504', '25160301', '25160506', '25090502', '25060601', '25040305', '25160302', '25160510', '25090503', '25160501', '25080304', '25160107', '25160509'}
+
 
 Total matched admin codes: 492
 Total unmatched admin codes: 171

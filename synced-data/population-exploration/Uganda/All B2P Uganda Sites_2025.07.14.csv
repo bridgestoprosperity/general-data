@@ -1,0 +1,611 @@
+Opportunity Name,Project Code,Level 1 Government,Level 2 Government,Level 3 Government,B2P Fiscal Year,Stage,Sub-Stage,Close Date,Bridge Type,Span (m),GPS (Latitude),GPS (Longitude),Population Estimate 2000m,Population Estimate 5000m,Individuals Directly Served
+Uganda - Kama - UG101,UG101,Eastern Region,Mbale,Bufumbo,2018,Complete,In Service,43081,Suspended Bridge,90,1.11633,34.25246,16243,92668,5280
+Uganda - Namakhokolo - 1008776,1008776,Eastern Region,Bududa,Bukibokolo,2018,Complete,In Service,43349,Suspended Bridge,90,0.978583,34.280483,10114,75683,4000
+Uganda - Namawukulu - 1008780,1008780,Eastern Region,Bududa,Bukalasi,2018,Complete,In Service,43260,Suspended Bridge,70,1.004485,34.4016731,11363,59721,1300
+Uganda - Kibembe - 1008734,1008734,Eastern Region,Sironko,Nalusala and Bumalimba,2019,Complete,In Service,43644,Suspension Bridge,74.6,1.2043,34.28912,8503,49100,1791
+Uganda - Tongole - 1008762,1008762,Eastern Region,Manafwa,Manafwa Town Council,2019,Complete,In Service,43518,Suspension Bridge,74.8,1.937883,34.2691,0,2578,3000
+Uganda - Lulwo - 1011066,1011066,Eastern Region,Bukwo,Bukwa,2019,Complete,In Service,43700,Suspended Bridge,65,1.304767,34.811307,417,4679,1626
+Uganda - Kapkwomboloi - 1011592,1011592,Eastern Region,Kapchorwa,Kapsinda,2019,Complete,In Service,43490,Suspended Bridge,40,1.3947033,34.3742902,1602,20206,693
+Uganda - Rwanda - 1015528,1015528,Eastern Region,Bukwo,Bukwo,2019,Complete,In Service,43672,Suspension Bridge,49.1,1.283832,34.726981,9580.2,47670.99,1742
+Uganda - Tabagon - 1017617,1017617,Eastern Region,Kween,Binyiny Town Council and Binyiny Sub County,2020,Complete,In Service,43903,Suspended Bridge,54.6,1.421969,34.546568,5458.33,29286.22,1245
+Uganda - Kikuyu - 1011474,1011474,Eastern Region,Bulambuli,Simu,2020,Complete,In Service,44074,Suspension Bridge,38,1.273242,34.312632,5742,53148,2521
+Uganda - Sanzara - 1010460,1010460,Eastern Region,Kapchorwa,Kawowo,2020,Complete,In Service,43882,Suspended Bridge,60,1.373657,34.3343225,1880,21402,634
+Uganda - Tuyobei - 1011084,1011084,Eastern Region,Bukwa,Tulel,2020,Complete,In Service,43791,Suspension Bridge,48,1.439188,34.726114,1066,2587,1709
+Uganda - Kawuswo - 1011085,1011085,Eastern Region,Bukwa,Tulel,2020,Complete,In Service,43756,Suspension Bridge,42,1.419135,34.72236,27,2137,1374
+Uganda - Banyal - 1011118,1011118,Eastern Region,Kween,Binyiny,2020,Complete,In Service,43903,Suspended Bridge,51.2,1.423756,34.549231,5195,32082,1489
+Uganda - Posha - 1011154,1011154,Eastern Region,Kween,Kitawoi,2020,Complete,In Service,44003,Suspension Bridge,48.2,1.372294,34.566279,8642,35894,896
+Uganda - Kyabayenze - 1015937,1015937,Western Region,Kasese,Karambi,2021,Complete,In Service,44099,Suspended Bridge,63,0.089215,29.739358,5983.42,42412.51,23416
+Uganda - Aryowet - 1021288,1021288,Eastern Region,Bukwo,Tulel Sub County and Girik Sub County,2021,Complete,In Service,44316,Suspension Bridge,42,1.390363,34.700049,901.09,14930.93,1660
+Uganda - Kihumuro B-kitomwire - 1022982,1022982,Western Region,Kibaale,Burora subcounty- kyangwali subcounty,2021,Complete,In Service,44302,Suspension Bridge,81,1.14253,30.87978,1738.19,13247.59,9924
+Uganda - Korya - 1011116,1011116,Eastern Region,Kween,Kaptoyoy,2021,Complete,In Service,44173,Suspended Bridge,52,1.410182,34.500075,4853,37427,1160
+Uganda - Chemuron - 1021307,1021307,Eastern Region,Bukwo,Kamet Sub County and Karita Sub County,2022,Complete,In Service,44477,Hybrid Suspension Bridge,66,1.416775,34.748919,634.68,6740.79,1211
+Uganda - Ndoragi 1- Nyamirima lower - 1021784,1021784,Western Region,Ibanda,Bufunda division,2022,Complete,In Service,44583,Suspension Bridge,74.8,-0.1880372,30.5292606,2669.93,23610.55,13100
+Uganda - Masaka-munsiso - 1022724,1022724,Western Region,Kabarole,Kabende,2022,Complete,In Service,44666,Suspended Bridge,73,0.862348,30.484131,2799.71,16027.1,11100
+Uganda - Bundimulinga- Kijumbu - 1025075,1025075,Western Region,Bundibugyo,Nyahuka Town Council & Mirambi subcounty,2022,Complete,In Service,44592,Suspended Bridge,83,0.672921,29.996975,17313.93,61864.31,23520
+Uganda - Ruboni-Kyambogho - 1036926,1036926,Western Region,Kasese,Ibanda-Kyanya Town Council,2022,Complete,In Service,44752,Hybrid Suspension Bridge,60,0.338746,30.031664,1821.35,13968.81,6046
+Uganda - Kasumbelya - 1013817,1013817,Western Region,Bundibugyo,Mirambi,2022,Complete,In Service,44678,Suspended Bridge,60,0.641949,30.000555,9500.85,62043.36,1720
+Uganda - Kabwe-Mutiti - 1013820,1013820,Western Region,Bundibugyo,Kagugu,2022,Complete,In Service,44788,Suspended Bridge,72,0.591305,29.988178,1682.48,15899.27,720
+Uganda - Mihani-Karichadi - 1014455,1014455,Western Region,Kasese,Bwesumbu (Kasese) & Kabonero (Bunyangabu District),2022,Complete,In Service,44459,Suspension Bridge,66.6,0.464511,30.138793,3116.17,24213.38,5300
+Uganda - Nganda- Bubwe - 1038749,1038749,Western Region,Buliisa,Biiso,2023,Complete,In Service,44957,Suspension Bridge,64,1.777943,31.4328,2387.39,13276.93,3254
+Uganda - Waaki west-lokowaki - 1038790,1038790,Western Region,Buliisa,Kihungya,2023,Complete,In Service,44845,Suspended Bridge,87,1.725489,31.378287,5213.65,20616.71,2900
+Uganda - Mugume - 1038791,1038791,Western Region,Buliisa,Kihungye,2023,Complete,In Service,44867,Suspension Bridge,38,1.73185,31.376722,4819.96,21377.72,2890
+Uganda - Kishanda-kisegere - 1039081,1039081,Western Region,Kanungu,Kayonza,2023,Complete,In Service,45071,Suspended Bridge,84,-0.936912,29.657129,2954.99,19829.37,2090
+Uganda - Isandalla-Nyamitooma - 1040609,1040609,Western Region,Kyegegwa,"Kakabara TC, Kyatega Subcounty",2023,Complete,In Service,45169,Suspension Bridge,73.8,0.544167,30.986111,2680.35,21982.96,3459
+Uganda - Kahama-Ndaragi - 1041111,1041111,Western Region,Rukungiri,Nyakishenyi RHS-Nyakishenyi LHS,2023,Complete,In Service,45062,Suspended Bridge,62,-0.94088,29.868137,3197.91,19377.54,2850
+Uganda - Nyakafura - 1042649,1042649,Western Region,Rukiga,Rwamucucu,2024,Complete,In Service,45374,Suspended Bridge,50,-1.186281,30.077927,3410.25,25771.81,1220
+Uganda - Katookye - 1042834,1042834,Western Region,Kabale,Kyanamira,2024,Complete,In Service,45261,Suspension Bridge,40,-1.2693,30.029745,6897.35,53493.62,52000
+Uganda - Katehe- Nyakajera - 1043210,1043210,Western Region,Rubirizi,Kyabakara,2024,Complete,In Service,45484,Suspended Bridge,46,-0.184768,30.238954,3510.56,17101.7,6490
+Uganda - Nyamirima II- Nyamirima I - 1043213,1043213,Western Region,Rubirizi,Katerera,2024,Complete,In Service,45464,Suspended Bridge,46,-0.179176,30.184132,3780.76,27678.27,1200
+Uganda - Kisenyi- kyangabukama - 1044562,1044562,Western Region,Kyenjojo,Kyarushozi town council,2024,Complete,In Service,45247,Suspended Bridge,58,0.798422,30.58818,3498.95,20732.46,350
+Uganda - Tokwe - 1044916,1044916,Western Region,Bundibugyo,Harugale,2024,Complete,In Service,45345,Suspended Bridge,50,0.681339,30.06956,7619.1,49524.15,2200
+Uganda - Nyakabugha-Bikone - 1014457,1014457,Western Region,Kasese,Ibanda-Kyanya Town Council,2024,Complete,In Service,45548,Hybrid Suspension Bridge,106,0.341503,30.052577,2506.46,16367.16,17163
+Uganda - Kahondo Church - Nyamwirima - 1042839,1042839,Western Region,Kabale,Maziba,2025,Complete,In Service,45714,Suspended Bridge,60,-1.293,30.15263,3269.55,23674.93,2400
+Uganda - Nkisya - 1013291,1013291,Western Region,Bundibugyo,Ntandi Town Council,2025,Complete,In Service,45716,Suspension Bridge,58,0.799587,30.146764,3756.61,20412.2,500
+Uganda - Sonoli - 1008733,1008733,Eastern Region,Sironko,Buyobo,2012,Identified,Identified in Needs Assessment,,,,1.171083,34.30702,10546,61601,
+Uganda - Kidibo - 1011473,1011473,Eastern Region,Bulambuli,Simu,2017,Identified,Identified in Needs Assessment,,,,1.253142,34.329432,9469,64838,34200
+Uganda - Matuba - 1011475,1011475,Eastern Region,Bulambuli,Simu,2017,Identified,Identified in Needs Assessment,,,,1.280827,34.314366,5747,52498,2780
+Uganda - Kapchesombe - 1008713,1008713,Eastern Region,Kapchorwa,Sipi Manyra,2017,Identified,Identified in Needs Assessment,,,100,1.335333,34.3862343,13078,47555,
+Uganda - Bukesa - 1008714,1008714,Eastern Region,Kapchorwa,Kabeywa,2017,Identified,Identified in Needs Assessment,,,,1.3125645,34.3942527,7837,47532,500
+Uganda - Sabiny Chebeser - 1008715,1008715,Eastern Region,Kapchorwa,Munarya,2017,Identified,Identified in Needs Assessment,,,100,1.3427421,34.3957163,9550,39514,
+Uganda - Kwomo - 1008716,1008716,Eastern Region,Kapchorwa,Chema,2017,Identified,Identified in Needs Assessment,,,95,1.3664325,34.4041691,5442,32962,
+Uganda - Chemosong - 1008717,1008717,Eastern Region,Kapchorwa,Chema,2017,Identified,Identified in Needs Assessment,,,110,1.3922682,34.3852152,2834,24174,
+Uganda - Bukisasati - 1008718,1008718,Eastern Region,Namisindwa,Bumwoni,2017,Identified,Identified in Needs Assessment,,,,0.84923,34.387787,14507,83393,3500
+Uganda - Bukhisoni - 1008719,1008719,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.88088,34.39049,17558,77166,4000
+Uganda - Namikhana - 1008720,1008720,Eastern Region,Namisindwa,Bumwoni,2017,Identified,Identified in Needs Assessment,,,,0.84634,34.384735,13842,82845,
+Uganda - Tingu - 1008721,1008721,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.8743283,34.398895,17930,72768,
+Uganda - Bukhaleke - 1008722,1008722,Eastern Region,Manafwa,Namisindwa,2017,Identified,Identified in Needs Assessment,,,,0.85037,34.381465,14693,86800,1500
+Uganda - Kisilwa - 1008723,1008723,Eastern Region,Manafwa,Namisindwa,2017,Identified,Identified in Needs Assessment,,,,0.8612017,34.4225626,12102,47750,
+Uganda - Buwatsala - 1008724,1008724,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.885873,34.39583,14812,70321,
+Uganda - Namisuni - 1008743,1008743,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.859017,34.378723,16359,89042,
+Uganda - Namwenula - 1008744,1008744,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.8605383,34.3870217,16556,85658,
+Uganda - Lwanda - 1008745,1008745,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.86696,34.38754,17797,84813,
+Uganda - Natsekhe - 1008749,1008749,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.89112,34.3839417,13890,77212,
+Uganda - Sibumba - 1008750,1008750,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.8865783,34.3701883,17110,81408,
+Uganda - Sango Nekina - 1008755,1008755,Eastern Region,Manafwa,Busukyuya and Bugobero,2017,Identified,Identified in Needs Assessment,,,,0.8496,34.240133,7924,55699,
+Uganda - Nasyanda - 1008761,1008761,Eastern Region,Manafwa,Butiro,2017,Identified,Identified in Needs Assessment,,,,0.812568,34.263817,6430,48795,
+Uganda - Nakazuku - 1008768,1008768,Eastern Region,Bulambuli,Bulaago,2017,Identified,Identified in Needs Assessment,,,,1.2449,34.3588,14061,74763,
+Uganda - Nalumba - 1008769,1008769,Eastern Region,Bulambuli,Sisiyi and Namsuni,2017,Identified,Identified in Needs Assessment,,,,1.28925,35.355083,0,0,
+Uganda - Namisuni - Gamogo - 1008770,1008770,Eastern Region,Bulambuli,Namasuni and Gamogo,2017,Identified,Identified in Needs Assessment,,,,1.2985,34.363083,11669,72742,
+Uganda - Namdongo - 1008771,1008771,Eastern Region,Bulambuli,Namisuni,2017,Identified,Identified in Needs Assessment,,,,1.294633,34.37535,11951,64697,300
+Uganda - Nangoma - 1008775,1008775,Eastern Region,Bududa,Bukibokolo,2017,Identified,Identified in Needs Assessment,,,,0.9812,34.282617,10407,76699,
+Uganda - Matiri - 1008781,1008781,Eastern Region,Bududa,Bumasheti,2017,Identified,Identified in Needs Assessment,,,,1.01281,34.304267,15694,83253,
+Uganda - Nametsi - 1008784,1008784,Eastern Region,Bududa,Bukalasi,2017,Identified,Identified in Needs Assessment,,,,1.036177,34.421605,7158,46829,
+Uganda - Kapkwai - 1008786,1008786,Eastern Region,Kapchorwa,Chema,2017,Identified,Identified in Needs Assessment,,,80,1.3544149,34.4150586,3376,29496,1000
+Uganda - Masagala - 1008788,1008788,Eastern Region,Sironko,Busulani Bumasifwa Subcounty,2017,Identified,Identified in Needs Assessment,,,50,1.0964,34.2191,15899,141124,
+Uganda - Namunapa - 1008789,1008789,Eastern Region,Namisindwa,Bukwaweka,2017,Identified,Identified in Needs Assessment,,,,0.9334,34.30785,11374,78839,
+Uganda - Bulako - 1008791,1008791,Eastern Region,Namisindwa,Namabya,2017,Identified,Identified in Needs Assessment,,,90,0.8719014,34.3194187,10122,69602,500
+Uganda - Siyantsa - 1008792,1008792,Eastern Region,Namisindwa,Bukhaweka,2017,Identified,Identified in Needs Assessment,,,40,0.9198909,34.3204144,13548,78796,
+Uganda - Buwambwa Chesoma - 1008793,1008793,Eastern Region,Namisindwa,Bumbo,2017,Identified,Identified in Needs Assessment,,,,0.884084,34.406513,15241,59191,2000
+Uganda - Sabiny Kaptokwoy - 1010459,1010459,Eastern Region,Kapchorwa,Central Division,2017,Identified,Identified in Needs Assessment,,,107,1.3790778,34.4580097,8685,46252,
+Uganda - Rosti - 1011161,1011161,Eastern Region,Kween,Kwanyiy,2017,Identified,Identified in Needs Assessment,,,,1.378749,34.648091,7612,27141,2450
+Uganda - Kamwam - 1011162,1011162,Eastern Region,Kween,Moyok,2017,Identified,Identified in Needs Assessment,,,,1.410572,34.610469,6851,28752,8600
+Uganda - Kapnandi Bridge - 1011060,1011060,Eastern Region,Bukwa,Kaptererwo,2017,Identified,Identified in Needs Assessment,,,,1.227725,34.80482,657,3820,28000
+Uganda - Kaptolomongon Bridge - 1011061,1011061,Eastern Region,Bukwa,Kaptererwo,2017,Identified,Identified in Needs Assessment,,,,1.21992,34.796031,422,3808,5500
+Uganda - Sosho - 1011065,1011065,Eastern Region,Bukwa,Bukwo,2017,Identified,Identified in Needs Assessment,,,,1.280618,34.718628,7422,34925,5300
+Uganda - St. Joseph's bridge - 1011082,1011082,Eastern Region,Bukwa,Bukwa,2017,Identified,Identified in Needs Assessment,,,,1.297243,34.746294,6235,31232,11000
+Uganda - Atikili - 1011083,1011083,Eastern Region,Bukwa,Tulel,2017,Identified,Identified in Needs Assessment,,,,1.402592,34.712112,11,2733,4000
+Uganda - Sungora - 1011086,1011086,Eastern Region,Bukwa,Chepkwasta,2017,Identified,Identified in Needs Assessment,,,,1.280194,34.708485,7648,31801,3900
+Uganda - Chemukun - 1011087,1011087,Eastern Region,Bukwa,Chepkwasta,2017,Identified,Identified in Needs Assessment,,,,1.283875,34.699737,7342,26805,3900
+Uganda - Cheptandan - 1011113,1011113,Eastern Region,Bukwa,Chepkwasta,2017,Identified,Identified in Needs Assessment,,,,1.282686,34.689458,7033,20197,3000
+Uganda - Kira - 1011114,1011114,Eastern Region,Bukwa,Chepkwasta,2017,Identified,Identified in Needs Assessment,,,,1.280886,34.676986,5268,13968,1500
+Uganda - Kapcheropta - 1011115,1011115,Eastern Region,Kween,Kaptoyoy,2017,Identified,Identified in Needs Assessment,,,,1.403085,34.512145,6460,39940,2400
+Uganda - Chepyakaniet - 1011119,1011119,Eastern Region,Kween,Kaptum,2017,Identified,Identified in Needs Assessment,,,,1.418745,34.559869,6388,36843,920
+Uganda - Kureny - 1011120,1011120,Eastern Region,Kween,Kaptum,2017,Identified,Identified in Needs Assessment,,,,1.421071,34.590966,8108,30632,2206
+Uganda - Moyok - 1011122,1011122,Eastern Region,Kween,Moyok,2017,Identified,Identified in Needs Assessment,,,,1.41137,34.6265,5665,23784,2900
+Uganda - Bugema - 1011123,1011123,Eastern Region,Kween,Kaproron Town Council,2017,Identified,Identified in Needs Assessment,,,,1.407526,34.595461,8257,34902,3500
+Uganda - Kaptare - 1011124,1011124,Eastern Region,Kween,Kaproron,2017,Identified,Identified in Needs Assessment,,,,1.422577,34.5918,7799,29706,6000
+Uganda - Kwosir - 1011153,1011153,Eastern Region,Kween,Kwosir,2017,Identified,Identified in Needs Assessment,,,,1.386142,34.583367,8499,39118,16000
+Uganda - Maaba - 1012295,1012295,Eastern Region,Bududa,Nalwanza,2017,Identified,Identified in Needs Assessment,,,,0.996547,34.37058,17350,93065,695
+Uganda - Shikho-Nakalwa - 1012296,1012296,Eastern Region,Bududa,Bumayoka,2017,Identified,Identified in Needs Assessment,,,,1.042445,34.407845,12323,70941,405
+Uganda - Muchomo-Bunatondo - 1012297,1012297,Eastern Region,Bududa,Bumayoka,2017,Identified,Identified in Needs Assessment,,,,1.029264,34.39792,14666,85453,585
+Uganda - Manafwa - 1012298,1012298,Eastern Region,Bududa,Bukigai,2017,Identified,Identified in Needs Assessment,,,,1.014449,34.372193,19669,107345,1040
+Uganda - Buwashi Lower - 1012299,1012299,Eastern Region,Bududa,Buwali,2017,Identified,Identified in Needs Assessment,,,,1.007974,34.371642,18662,101696,2050
+Uganda - Bunamwamba Main - 1012300,1012300,Eastern Region,Bududa,Buwali,2017,Identified,Identified in Needs Assessment,,,,1.005258,34.395825,12082,69675,1820
+Uganda - Nafunani - 1012301,1012301,Eastern Region,Bududa,Bumayoka,2017,Identified,Identified in Needs Assessment,,,,1.047861,34.415942,8648,53731,885
+Uganda - Bunabumali - 1012302,1012302,Eastern Region,Bududa,Buwali,2017,Identified,Identified in Needs Assessment,,,,0.999995,34.387808,11295,78525,2800
+Uganda - Shanzou-Nalufutu - 1012374,1012374,Eastern Region,Bududa,Bushiribo,2017,Identified,Identified in Needs Assessment,,,,1.040645,34.33537,21562,109994,2510
+Uganda - Resort - 1011583,1011583,Eastern Region,Bulambuli,Bulegeni,2017,Identified,Identified in Needs Assessment,,,,1.278543,34.318153,5589,54965,7900
+Uganda - Chesoyen - 1011593,1011593,Eastern Region,Kapchorwa,Chapterech,2017,Identified,Identified in Needs Assessment,,,,1.31696,34.36053,11773,67208,600
+Uganda - Kemawa - 1011594,1011594,Eastern Region,Kapchorwa,Kaserem,2017,Identified,Identified in Needs Assessment,,,,1.32593,34.3454,11127,59138,700
+Uganda - Kapsabuko - 1011595,1011595,Eastern Region,Kapchorwa,Kapsinda,2017,Identified,Identified in Needs Assessment,,,,1.3669172,34.3483679,3409,31989,350
+Uganda - Nazwazwa - 1011696,1011696,Eastern Region,Bulambuli,Bumasobo,2017,Identified,Identified in Needs Assessment,,,,1.212136,34.394997,11856,41672,9300
+Uganda - Bushibuya Upper - 1011805,1011805,Eastern Region,Bududa,Bushiyi,2017,Identified,Identified in Needs Assessment,,,,1.062098,34.40238,13120,63062,6000
+Uganda - Namaili - 1011806,1011806,Eastern Region,Bududa,Bushiyi,2017,Identified,Identified in Needs Assessment,,,,1.052837,34.388716,20245,89018,3500
+Uganda - Lunza-Shibumba - 1012050,1012050,Eastern Region,Bududa,Nangako Town Council,2017,Identified,Identified in Needs Assessment,,,,1.054546,34.343935,26505,100534,4190
+Uganda - Kibiisi - 1012051,1012051,Eastern Region,Bududa,Bushika,2017,Identified,Identified in Needs Assessment,,,,1.059712,34.350364,25216,98199,1430
+Uganda - Namomolo - 1012052,1012052,Eastern Region,Bududa,Bushiribo,2017,Identified,Identified in Needs Assessment,,,,1.034709,34.330458,17925,108714,1600
+Uganda - Masiu - 1012053,1012053,Eastern Region,Bududa,Bukibokolo,2017,Identified,Identified in Needs Assessment,,,,1.00796,34.27496,13562,65841,1180
+Uganda - Namalemu - 1012054,1012054,Eastern Region,Bududa,Bumasheti,2017,Identified,Identified in Needs Assessment,,,,0.987674,34.306409,14387,87685,570
+Uganda - Bundibuturo II - 1012959,1012959,Western Region,Bundibugyo,Kirumya,2017,Identified,Identified in Needs Assessment,,,,0.760931,30.097965,5792.52,41756.61,3686
+Uganda - Bundiwerume - 1012961,1012961,Western Region,Bundibugyo,Kirumya,2017,Identified,Identified in Needs Assessment,,,,0.726095,30.066533,17206.66,64416.33,2063
+Uganda - Kaleyaleya II - 1012968,1012968,Western Region,Bundibugyo,Harugale,2017,Identified,Identified in Needs Assessment,,,,0.635027,30.030583,5186.15,33376.58,3550
+Uganda - Kasuku - 1012971,1012971,Western Region,Bundibugyo,Ngamba,2017,Identified,Identified in Needs Assessment,,,,0.757341,30.131497,5322.29,29499.12,6312
+Uganda - Kasulenge II - 1013264,1013264,Western Region,Bundibugyo,Kirumya,2017,Identified,Identified in Needs Assessment,,,,0.737634,30.100656,6815.21,48499.72,1670
+Uganda - Humya-Tokwe - 1013265,1013265,Western Region,Bundibugyo,Bubukwanga,2017,Identified,Identified in Needs Assessment,,,,0.762011,30.042096,7263.23,35282.64,2418
+Uganda - Bundimbheku - 1013266,1013266,Western Region,Bundibugyo,Kirumya,2017,Identified,Identified in Needs Assessment,,,,0.758385,30.096467,5699.97,43189.54,1742
+Uganda - Lyambwe - 1013267,1013267,Western Region,Bundibugyo,Kirumya,2017,Identified,Identified in Needs Assessment,,,,0.732674,30.10893,6730.68,41578.26,8295
+Uganda - Bundimulinga - 1012682,1012682,Western Region,Bundibugyo,Nyahuka town council,2017,Identified,Identified in Needs Assessment,,Concrete (11 - 20m),16,0.672921,29.996975,12435,56240,13000
+Uganda - Kasili - 1012683,1012683,Western Region,Bundibugyo,Nyahuka town council,2017,Identified,Identified in Needs Assessment,,,,0.693256,29.974573,5933,36011,22500
+Uganda - Bimara - 1012747,1012747,Western Region,Bundibugyo,Harugale and bukonzo,2017,Identified,Identified in Needs Assessment,,,,0.689072,30.07887,9658.38,51329.49,10000
+Uganda - Kibale 1 - 1012748,1012748,Western Region,Bundibugyo,Harugale,2017,Identified,Identified in Needs Assessment,,,,0.68098,30.070957,7313.97,48978.53,9200
+Uganda - Nyambaro - 1012749,1012749,Western Region,Bundibugyo,Nyahuka Town Council,2017,Identified,Identified in Needs Assessment,,,,0.674206,29.985053,16225.24,59889.5,13500
+Uganda - Khanyunyi - 1008726,1008726,Eastern Region,Mbale,Wanale,2018,Identified,Identified in Needs Assessment,,,,1.047237,34.229627,16158,88418,
+Uganda - Gibuzale - 1008728,1008728,Eastern Region,Bulambuli,Bumugibole to Masila,2018,Identified,Identified in Needs Assessment,,,,1.283067,34.390517,10731,48074,
+Uganda - Belegali - 1008730,1008730,Eastern Region,Mbale,Mbale,2018,Identified,Identified in Needs Assessment,,,,1.068767,34.22943,14123,111006,1000
+Uganda - Busirima - 1008731,1008731,Eastern Region,Sironko,Zusui and Bukyamba,2018,Identified,Identified in Needs Assessment,,,,1.13205,34.33905,11330,61128,3000
+Uganda - Muyembe - 1008732,1008732,Eastern Region,Sironko,Bukyambi,2018,Identified,Identified in Needs Assessment,,,,1.151083,34.3333,10197,63356,
+Uganda - Bunamulingi - 1008736,1008736,Eastern Region,Namisindwa,Bukokho,2018,Identified,Identified in Needs Assessment,,,40,0.888166,34.4204057,9805,41174,500
+Uganda - Kadebede - 1008737,1008737,Eastern Region,Mbale,Nakaloke and Bukiyi,2018,Identified,Identified in Needs Assessment,,,,1.154733,34.184383,11862,70078,
+Uganda - Bunabubulo Shabakhana - 1008739,1008739,Eastern Region,Mbale,Wanale,2018,Identified,Identified in Needs Assessment,,,,1.041863,34.234617,13313,85633,1050
+Uganda - Bumutsola - 1008740,1008740,Eastern Region,Namisindwa,Nambooko and Bubutu,2018,Identified,Identified in Needs Assessment,,,,0.79408,34.312397,8049,47314,750
+Uganda - Bumula - 1008741,1008741,Eastern Region,Namisindwa,Namabya,2018,Identified,Identified in Needs Assessment,,,,0.89265,34.332517,12627,80931,2000
+Uganda - Kisekere - 1008746,1008746,Eastern Region,Namisindwa,Bumbo,2018,Identified,Identified in Needs Assessment,,,,0.87172,34.385675,18285,84575,
+Uganda - Khasula - 1008747,1008747,Eastern Region,Namisindwa,Bumbo,2018,Identified,Identified in Needs Assessment,,,,0.87643,34.381873,18386,83051,
+Uganda - Mufutu - 1008748,1008748,Eastern Region,Namisindwa,Bumbo,2018,Identified,Identified in Needs Assessment,,,,0.87336,34.375845,18026,84824,
+Uganda - Buwambwa Nambwa - 1008751,1008751,Eastern Region,Namisindwa,Bumbo,2018,Identified,Identified in Needs Assessment,,,,0.8827583,34.3703517,17446,81958,2200
+Uganda - Bukituma - 1008752,1008752,Eastern Region,Namisindwa,Bumbo,2018,Identified,Identified in Needs Assessment,,,,0.876361,34.401335,17496,69257,9000
+Uganda - Bunamajye - 1008753,1008753,Eastern Region,Mbale,Bufumbo and Bukonde,2018,Identified,Identified in Needs Assessment,,,,1.106367,34.2491,21066,95235,15000
+Uganda - Cheoli - 1008754,1008754,Eastern Region,Namisindwa,Bumbo,2018,Identified,Identified in Needs Assessment,,,,1.078933,34.16706,70719,187973,
+Uganda - Bukalamya - 1008756,1008756,Eastern Region,Manafwa,Bunabwana,2018,Identified,Identified in Needs Assessment,,,,0.79476,34.277295,4515,43961,1500
+Uganda - Matunga - 1008757,1008757,Eastern Region,Manafwa,Sibanga,2018,Identified,Identified in Needs Assessment,,,,0.9343,34.233617,8026,54788,
+Uganda - Bumasale - 1008758,1008758,Eastern Region,Manafwa,Sibanga,2018,Identified,Identified in Needs Assessment,,,,0.92475,34.2345,8207,56591,2000
+Uganda - Bunekoye - 1008759,1008759,Eastern Region,Manafwa,Butiro,2018,Identified,Identified in Needs Assessment,,,,0.811033,34.2658,6399,48448,1000
+Uganda - Buwanyeza - 1008760,1008760,Eastern Region,Manafwa,Butiro,2018,Identified,Identified in Needs Assessment,,,,0.841833,34.301367,9857,62267,
+Uganda - Bumwango - 1008763,1008763,Eastern Region,Manafwa,Manafwa Town Council,2018,Identified,Identified in Needs Assessment,,,,0.9423,34.294717,11411,75266,1500
+Uganda - Mungasa - 1008764,1008764,Eastern Region,Manafwa,Manafwa Town Council,2018,Identified,Identified in Needs Assessment,,,,0.955983,34.28955,14376,72252,
+Uganda - Sisiyi - 1008766,1008766,Eastern Region,Bulambuli,Bulambuli,2018,Identified,Identified in Needs Assessment,,,,1.2567,34.39007,6319,54334,
+Uganda - Bubwabala - 1008772,1008772,Eastern Region,Bulambuli,Buwikhonge,2018,Identified,Identified in Needs Assessment,,,,1.38565,34.300517,2710,13972,750
+Uganda - Bulumela - 1008773,1008773,Eastern Region,Bulambuli,Bwikhonge,2018,Identified,Identified in Needs Assessment,,,,0.44365,34.312067,0,0,100
+Uganda - Bulako Cheputi - 1008774,1008774,Eastern Region,Bulambuli,Bwikhonge,2018,Identified,Identified in Needs Assessment,,,,1.39775,34.35115,1301,10939,700
+Uganda - Bumakika - 1008777,1008777,Eastern Region,Bududa,Mumasheti,2018,Identified,Identified in Needs Assessment,,,,1.001833,34.303088,15541,85212,150
+Uganda - Bukhayiyi - 1008778,1008778,Eastern Region,Bududa,Bumasheti,2018,Identified,Identified in Needs Assessment,,,,1.005285,34.307622,16058,87239,1800
+Uganda - Bumalende - 1008782,1008782,Eastern Region,Bududa,Bumasheti,2018,Identified,Identified in Needs Assessment,,,,1.01538,34.301837,14991,79925,5000
+Uganda - Bunamwamba - 1008783,1008783,Eastern Region,Bududa,Bumasheti,2018,Identified,Identified in Needs Assessment,,,,0.984685,34.304173,13705,85976,0
+Uganda - Butsebangwe - 1008785,1008785,Eastern Region,Bududa,Bukalasi,2018,Identified,Identified in Needs Assessment,,,,1.004555,34.403775,11112,56191,500
+Uganda - Bunadasa - 1011492,1011492,Eastern Region,Sironko,Bumalimba,2018,Identified,Identified in Needs Assessment,,,,,,,,1000
+Uganda - Mpulya - 1013292,1013292,Western Region,Bundibugyo,Ntandi Town Council,2018,Identified,Identified in Needs Assessment,,,,0.800634,30.138757,4150.37,21501.02,1512
+Uganda - Laigong - 1011289,1011289,Eastern Region,Kween,Benet,2019,Identified,Identified in Needs Assessment,,,,1.356256,34.50558,8339,31375,2328
+Uganda - Nyakasoha - 1013997,1013997,Western Region,Bundibugyo,Bundingoma,2019,Identified,Identified in Needs Assessment,,,,0.665085,29.974431,11334.12,59045.51,1300
+Uganda - Nabowa - 1013998,1013998,Western Region,Bundibugyo,Busunga Town Council,2019,Identified,Identified in Needs Assessment,,,,0.660758,29.972717,10927.39,58486.24,1290
+Uganda - Bundinamandi - 1013999,1013999,Western Region,Bundibugyo,Bundingoma,2019,Identified,Identified in Needs Assessment,,,,0.671205,29.963053,5802.11,50981.96,1760
+Uganda - Rwakasenyi - 1013585,1013585,Western Region,Bundibugyo,Burondo,2019,Identified,Identified in Needs Assessment,,,,0.891714,30.178511,1589.13,10099.18,1750
+Uganda - Mburakasaka - 1013587,1013587,Western Region,Kasese,Bulembya Division,2019,Identified,Identified in Needs Assessment,,,,0.186533,30.030177,4997.49,41737.95,2650
+Uganda - Bumate-Bugombwa - 1013814,1013814,Western Region,Bundibugyo,Bundibugyo Town Council,2019,Identified,Identified in Needs Assessment,,,,0.688192,30.066011,11863.2,53287.17,1140
+Uganda - Rufula - 1013815,1013815,Western Region,Bundibugyo,Bundibugyo Town Council,2019,Identified,Identified in Needs Assessment,,,,0.711685,30.06621,24328.02,60498.25,1400
+Uganda - Kasuka-Kuka - 1013816,1013816,Western Region,Bundibugyo,Ndugutu,2019,Identified,Identified in Needs Assessment,,,,0.622532,30.024661,4304.75,29028.37,2300
+Uganda - Bundikawungu West - 1013818,1013818,Western Region,Bundibugyo,Mirambi,2019,Identified,Identified in Needs Assessment,,,,0.667187,29.994301,17147.32,64574.18,5800
+Uganda - Kazaroho - 1013819,1013819,Western Region,Bundibugyo,Sindila,2019,Identified,Identified in Needs Assessment,,,,0.583917,29.971551,957.35,11150.94,1600
+Uganda - Mitunda - 1013821,1013821,Western Region,Bundibugyo,Kagugu,2019,Identified,Identified in Needs Assessment,,,,0.614398,29.991385,4377.52,38152.2,1900
+Uganda - Ntagata - 1013822,1013822,Western Region,Bundibugyo,Kagugu,2019,Identified,Identified in Needs Assessment,,,,0.613734,29.979797,4238.88,36852.78,1950
+Uganda - Busibi-Nyamba - 1014454,1014454,Western Region,Kasese,Kyabarungira,2019,Identified,Identified in Needs Assessment,,,,0.438299,30.160822,5424.1,38917.93,12400
+Uganda - Karujumba - 1014456,1014456,Western Region,Kasese,Kyarumba,2019,Identified,Identified in Needs Assessment,,,,0.064435,29.911981,9632.45,35333.63,38000
+Uganda - Kabingo-Busingo - 1014458,1014458,Western Region,Kasese,Kyarumba,2019,Identified,Identified in Needs Assessment,,,,0.150543,29.926509,2952.91,17566.49,6000
+Uganda - Kigaramire - 1014460,1014460,Western Region,Kasese,Bugoye,2019,Identified,Identified in Needs Assessment,,,,0.266854,30.109818,6754.87,33047.46,16200
+Uganda - Izinga-Bwizibwera - 1014649,1014649,Western Region,Kasese,Maliba,2019,Identified,Identified in Needs Assessment,,,,0.289855,30.110648,3711.61,24312.62,2650
+Uganda - Nyakaka-Buhati - 1014651,1014651,Western Region,Kasese,Bwesumbu,2019,Identified,Identified in Needs Assessment,,,,0.472357,30.093033,2651.42,18198.82,6000
+Uganda - Ngenge - 1018566,1018566,Eastern Region,Kween,Benet,2020,Identified,Identified in Needs Assessment,,Suspended Bridge,30,1.358779,34.521656,1501.3,15742.16,1302
+Uganda - Nyinendugu - 1021782,1021782,Western Region,Ibanda,Bufunda division,2020,Identified,Identified in Needs Assessment,,,,-0.14743,30.498804,9610.14,37306.7,14400
+Uganda - Kyetegyeka- Kajumbura - 1021783,1021783,Western Region,Ibanda,Bufunda division,2020,Identified,Identified in Needs Assessment,,,,-0.176814,30.530784,2701.02,23174.45,15200
+Uganda - Mirambi - 1021825,1021825,Western Region,Ibanda,Kagongo,2020,Identified,Identified in Needs Assessment,,,,-0.126645,30.422006,4924.55,34458.07,24900
+Uganda - Nkombe 1 - Kanyambiriri - 1022219,1022219,Western Region,Rubirizi,Rutoto,2020,Identified,Identified in Needs Assessment,,,,-0.350505,30.095959,2288.67,11297.18,900
+Uganda - Bukyaba - 1022220,1022220,Western Region,Rubirizi,Rutoto,2020,Identified,Identified in Needs Assessment,,,,-0.314403,30.092098,3649.43,24338.75,2000
+Uganda - Nkondo A- Nkondo B - 1022221,1022221,Western Region,Rubirizi,Ryeru subcounty,2020,Identified,Identified in Needs Assessment,,,,-0.290064,30.082289,5369.6,30062.74,2020
+Uganda - Katanda 1- Kakindo A - 1022222,1022222,Western Region,Rubirizi,Katanda,2020,Identified,Identified in Needs Assessment,,,,-0.225961,30.172146,6891.26,36992.96,8242
+Uganda - Katanda 1- kakindo C - 1022223,1022223,Western Region,Rubirizi,Katanda,2020,Identified,Identified in Needs Assessment,,,,-0.227783,30.174238,6696.78,36907.39,5858
+Uganda - Mwongera 2- kakari 2 - 1022224,1022224,Western Region,Rubirizi,Katerera subcounty,2020,Identified,Identified in Needs Assessment,,,,-0.182909,30.200091,4293.09,28757.41,2783
+Uganda - Nyakanengo - 1022226,1022226,Western Region,Rubirizi,Kyabakara,2020,Identified,Identified in Needs Assessment,,,,-0.170735,30.17835,2645.03,23255.12,1872
+Uganda - Kwerebera-kakindo 2 bridge - 1022227,1022227,Western Region,Ibanda,"Kicuzi in Ibanda district, mashyoro in kitagwenda district",2020,Identified,Identified in Needs Assessment,,,,-0.115069,30.283477,1860.99,15717.35,0
+Uganda - Mugoma-kasindukwa - 1022725,1022725,Western Region,Kabarole,Karambi,2020,Identified,Identified in Needs Assessment,,,,0.681577,30.251207,7943.39,73059.62,1450
+Uganda - Kitonya - 1022729,1022729,Western Region,Kabarole,Karangura,2020,Identified,Identified in Needs Assessment,,,,0.612115,30.149292,4384.83,27763.85,4883
+Uganda - Nyataboma central-Kicalaca - 1022732,1022732,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.736377,30.297,3833.75,19872.06,2360
+Uganda - Kicalaca-Kanyatete - 1022733,1022733,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,Culvert (10m or less),,0.725351,30.293658,3712.89,23256.04,1820
+Uganda - Kikonge-Bwanika - 1022734,1022734,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.703121,30.262914,5740.5,43162.57,4660
+Uganda - Kakonkome - 1022735,1022735,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.681862,30.286775,11738.45,70086.75,7360
+Uganda - Mount Gessi - 1022738,1022738,Western Region,Kabarole,Karangura,2020,Identified,Identified in Needs Assessment,,,,0.660638,30.149988,3456.82,26383.22,2177
+Uganda - Bulyambuzi B-Buharani - 1022739,1022739,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.759376,30.307662,2784.96,15756.28,1850
+Uganda - Bulega-mpinga - 1022740,1022740,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.744009,30.317333,3682.27,17501.02,2300
+Uganda - Bulyambuzi B-Nyakabira - 1022741,1022741,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.764399,30.315507,2537.81,14411.2,1250
+Uganda - Kyeihembe-kijenga - 1022742,1022742,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.745246,30.339555,2815.61,16751.14,800
+Uganda - Nyakitokoli A-Buhami - 1022743,1022743,Western Region,Kabarole,Karangura,2020,Identified,Identified in Needs Assessment,,,,0.6832,30.172702,4686.09,34761.6,3348
+Uganda - Kabasanja-Mwokya - 1022744,1022744,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.753969,30.347315,2253.42,15860.41,1600
+Uganda - Kakundwa-Nyantaboma - 1022745,1022745,Western Region,Kabarole,Harugongo,2020,Identified,Identified in Needs Assessment,,,,0.731018,30.305661,3552.33,20397.21,2000
+Uganda - Mount Gessi Alternate Location - 1022862,1022862,Western Region,Kabarole,,2020,Identified,Identified in Needs Assessment,,,,0.661233,30.150787,3487.01,26714.86,0
+Uganda - Rugarama 1023074 audit - 1023311,1023311,Western Region,Ibanda,,2020,Identified,Identified in Needs Assessment,,,,,,,,0
+Uganda - Rwenda 1023083 audit - 1023312,1023312,Western Region,Ibanda,,2020,Identified,Identified in Needs Assessment,,,,,,,,0
+Uganda - Mogondo 1023085 - 1023313,1023313,Western Region,Ibanda,,2020,Identified,Identified in Needs Assessment,,,,,,,,0
+Uganda - Rwatibale audit 1023087 - 1023315,1023315,Western Region,Ibanda,,2020,Identified,Identified in Needs Assessment,,,,,,,,0
+Uganda - Sililwa - 1008735,1008735,Eastern Region,Namisindwa,Bukokho,2020,Identified,Identified in Needs Assessment,,,60,0.856349,34.4201456,11400,50650,1769
+Uganda - Wekobosa - 1008742,1008742,Eastern Region,Namisindwa,Bukhaweka,2020,Identified,Identified in Needs Assessment,,Suspended Bridge,40,0.90965,34.319567,11842,78183,3301
+Uganda - Bunekesa - 1008765,1008765,Eastern Region,Manafwa,Manafwa Town Council,2020,Identified,Identified in Needs Assessment,,,,0.959983,34.296867,12956,76354,3999
+Uganda - Nyimei - 1011152,1011152,Eastern Region,Kween,Kiriki,2020,Identified,Identified in Needs Assessment,,,40,1.430213,34.718882,209,2316,1072
+Uganda - Kapchemelei - 1011290,1011290,Eastern Region,Kween,Benet,2020,Identified,Identified in Needs Assessment,,,,1.359521,34.522313,6869,32778,498
+Uganda - Magunga- Nyakagongo - 1022726,1022726,Western Region,Kabarole,Mugusu,2021,Identified,Identified in Needs Assessment,,,,0.590396,30.203002,8887.26,45242.57,11150
+Uganda - Karwoma - 1022728,1022728,Western Region,Kabarole,Mugusu,2021,Identified,Identified in Needs Assessment,,Suspension Bridge,45,0.595394,30.178,6252.75,43319.21,4250
+Uganda - Rugarama 1 - 1023074,1023074,Western Region,Ibanda,Rukiri,2021,Identified,Identified in Needs Assessment,,,,-0.287358,30.437223,3587.46,23111.97,4743
+Uganda - Rujumbura-Kayanja - 1023075,1023075,Western Region,Ibanda,Nyabuhikye,2021,Identified,Identified in Needs Assessment,,,,-0.249153,30.498536,2531.86,18058.73,2431
+Uganda - Kitontoma-Nsasi - 1023076,1023076,Western Region,Ibanda,Bisheshe division,2021,Identified,Identified in Needs Assessment,,,,-0.090735,30.525903,3076.51,23150.56,1686
+Uganda - Rwemigina - 1023077,1023077,Western Region,Ibanda,Bufunda division,2021,Identified,Identified in Needs Assessment,,,,-0.109694,30.569906,3268.29,24050.23,2196
+Uganda - Kashangura - 1023078,1023078,Western Region,Ibanda,Bisheshe division,2021,Identified,Identified in Needs Assessment,,,,-0.062238,30.43596,3685.09,23326.47,2105
+Uganda - Rwobuhungye -Mirambi - 1023079,1023079,Western Region,Ibanda,Rumuri subcounty,2021,Identified,Identified in Needs Assessment,,,,-0.21521,30.454859,3094.18,19007.3,5722
+Uganda - Bururuma - 1023080,1023080,Western Region,Ibanda,Nyamarebe,2021,Identified,Identified in Needs Assessment,,,,0.033434,30.599913,2714.75,17382.5,7882
+Uganda - Karangara-Rwemerire - 1023082,1023082,Western Region,Ibanda,Bisheshe,2021,Identified,Identified in Needs Assessment,,,,-0.059566,30.525787,1927.3,19798.9,4223
+Uganda - Rwenda bridge - 1023083,1023083,Western Region,Ibanda,Rukiri,2021,Identified,Identified in Needs Assessment,,,,-0.210705,30.426929,3552.01,23167.6,4074
+Uganda - Kakuuto bridge - 1023084,1023084,Western Region,Ibanda,Bufunda division,2021,Identified,Identified in Needs Assessment,,,,-0.043582,30.568198,1867.64,15063.99,6197
+Uganda - Mogondo-Kakuuto 3 - 1023085,1023085,Western Region,Ibanda,Ishongororo,2021,Identified,Identified in Needs Assessment,,,,-0.031115,30.570408,2288.8,15546.08,3498
+Uganda - Kitooro 1-rugando - 1023086,1023086,Western Region,Ibanda,Ishongororo,2021,Identified,Identified in Needs Assessment,,,,0.045227,30.538538,3142.51,24758.23,2680
+Uganda - Rwatibale-Kashangura - 1023087,1023087,Western Region,Ibanda,Kagongo division,2021,Identified,Identified in Needs Assessment,,,,-0.040117,30.451417,3284.32,22237.58,1200
+Uganda - Katiri bridge - 1024478,1024478,Western Region,Kasese,Bulembia division,2021,Identified,Identified in Needs Assessment,,,,0.197593,30.015778,6140,32264.1,0
+Uganda - Mitswamba-Maliba - 1024487,1024487,Western Region,Kasese,Kitswmba,2021,Identified,Identified in Needs Assessment,,,,0.348409,30.149782,2802.03,24396.45,0
+Uganda - Kihyo-Kahando - 1024488,1024488,Western Region,Kasese,Hima Town council,2021,Identified,Identified in Needs Assessment,,,,0.355856,30.151001,3295.67,27691.24,0
+Uganda - Kalumanga- Kasanga - 1024489,1024489,Western Region,Kasese,Kichwamba,2021,Identified,Identified in Needs Assessment,,,,0.336607,30.153652,2452.97,22415.09,0
+Uganda - Maliba 1- Kakindo - 1024493,1024493,Western Region,Kasese,Maliba subcounty,2021,Identified,Identified in Needs Assessment,,,,0.32044,30.099706,3579.97,19107,0
+Uganda - Karujumba re assessment - 1024494,1024494,Western Region,Kasese,Kitabo subcounty,2021,Identified,Identified in Needs Assessment,,,,,,,,0
+Uganda - Mukumbwe-Nsorro - 1025708,1025708,Western Region,Kabarole,Karambi,2021,Identified,Identified in Needs Assessment,,,,0.612556,30.261805,9088.05,60893.08,0
+Uganda - Buhesi-Magunga - 1025710,1025710,Western Region,Kabarole,Mugusu,2021,Identified,Identified in Needs Assessment,,,,0.590271,30.203088,8922.79,45227.07,0
+Uganda - Mwihira - 1025714,1025714,Western Region,Kabarole,Mugusu,2021,Identified,Identified in Needs Assessment,,,,0.638828,30.17168,6030.2,35651.45,0
+Uganda - Nyankuku - 1025716,1025716,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.720146,30.195831,5278.39,27978.33,0
+Uganda - Mabaale - 1025719,1025719,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.726088,30.196927,4885.94,26440.82,0
+Uganda - Nyakaseke - 1025720,1025720,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.730345,30.206996,4179.39,25913.85,0
+Uganda - Bulitukura - 1025722,1025722,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.714876,30.220725,3834.26,30686.64,0
+Uganda - Nyakitunga - 1025724,1025724,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.711633,30.212849,3966.08,32737.21,0
+Uganda - Nyankwanzi-Kihinda - 1025795,1025795,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.719402,30.221048,3823.47,28771.91,0
+Uganda - Bwanika-Nyankwanzi - 1025796,1025796,Western Region,Kabarole,Kicwamba,2021,Identified,Identified in Needs Assessment,,,,0.722058,30.233111,3869.3,26086.59,0
+Uganda - Kyangabukama-Nyabikere - 1025801,1025801,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.493074,30.326706,3530.5,13282.23,0
+Uganda - Iruhuura-Kanyeriire - 1025799,1025799,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.465001,30.305085,2000.85,14020.23,0
+Uganda - Kyantambara-Twoto - 1025800,1025800,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.49267,30.316441,2890.42,14036.67,0
+Uganda - Kyantambara-Rwiigo - 1025802,1025802,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.493721,30.30151,2124.31,15045.12,0
+Uganda - Busingye B - 1025803,1025803,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.430056,30.307272,2827.15,13893.52,0
+Uganda - Kihogo - 1025804,1025804,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.452906,30.313568,1969.1,13123.72,0
+Uganda - Kaburakucumba - 1025805,1025805,Western Region,Kabarole,Kasenda,2021,Identified,Identified in Needs Assessment,,,,0.454251,30.312693,1978.11,13228.42,0
+Uganda - Sooko-Kangoma - 1025837,1025837,Western Region,Ibanda,Nyamarebe,2021,Identified,Identified in Needs Assessment,,,,0.143866,30.569432,2424.46,17519.54,0
+Uganda - Ahakabaale-Nyakanengo - 1025839,1025839,Western Region,Ibanda,Nyamarebe,2021,Identified,Identified in Needs Assessment,,,,0.095771,30.565531,2162.53,16596.63,0
+Uganda - Kakuuto 2 - 1025856,1025856,Western Region,Ibanda,Ishongororo,2021,Identified,Identified in Needs Assessment,,,,-0.043304,30.568234,1879.08,15068.45,0
+Uganda - Katojo 2 - Karituusi - 1025857,1025857,Western Region,Ibanda,Ishongororo,2021,Identified,Identified in Needs Assessment,,,,0.009157,30.5831,2611.13,16879.1,0
+Uganda - Rwakamugamba - 1025858,1025858,Western Region,Ibanda,Ishongororo,2021,Identified,Identified in Needs Assessment,,,,0.026819,30.591351,2938.83,16807.12,0
+Uganda - Rushambya-Karituusi - 1025859,1025859,Western Region,Ibanda,Ishongororo,2021,Identified,Identified in Needs Assessment,,,,0.019754,30.586157,2931.38,16880.04,0
+Uganda - Mureefu - 1025860,1025860,Western Region,Ibanda,Kijongo,2021,Identified,Identified in Needs Assessment,,,,0.017306,30.455856,3107.18,21238.96,0
+Uganda - Birongo 3 - Kagango 2 - 1025861,1025861,Western Region,Ibanda,Kijongo,2021,Identified,Identified in Needs Assessment,,,,0.02417,30.455347,3216.76,22426.82,0
+Uganda - Kemihoko-Karokarungi - 1025862,1025862,Western Region,Ibanda,Kijongo,2021,Identified,Identified in Needs Assessment,,,,0.040231,30.428799,3434.59,24053.14,0
+Uganda - Kashwiiga-Kikafunda-Rwambu - 1025863,1025863,Western Region,Ibanda,Kijongo,2021,Identified,Identified in Needs Assessment,,,,0.046618,30.429797,3578.46,23752.75,0
+Uganda - Rwenkuba-Kyabwanshwa - 1025864,1025864,Western Region,Ibanda,Kijongo,2021,Identified,Identified in Needs Assessment,,,,0.009637,30.398234,3647.26,29519.42,0
+Uganda - Kiryabisoro-Kaburishokye - 1025865,1025865,Western Region,Ibanda,Kijongo,2021,Identified,Identified in Needs Assessment,,,,0.014845,30.402506,3538.22,29000.53,0
+Uganda - Isule-Kihindi - 1025997,1025997,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.360334,30.091732,2673.31,24309.95,0
+Uganda - Kiruli 1A - Katebe 1 - 1025979,1025979,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.346467,30.132992,3073.57,22242.27,0
+Uganda - Nyangere-Katebe - 1025980,1025980,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.34525,30.124218,3252.72,21606.04,0
+Uganda - Kibumba-Kabuyiri - 1025981,1025981,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.343093,30.105057,3099.8,20567.4,0
+Uganda - Katindo-Rwenzori - 1025983,1025983,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.327778,30.08444,3542.26,18866.43,0
+Uganda - Mirimbo-Kisamba II - 1025984,1025984,Western Region,Kasese,Bugoye,2021,Identified,Identified in Needs Assessment,,,,0.313134,30.055958,2706.27,15409.32,0
+Uganda - Katooke 1 - Kinyangoye - 1025985,1025985,Western Region,Kasese,Bugoye,2021,Identified,Identified in Needs Assessment,,,,0.257728,30.076722,3261.72,26029.35,0
+Uganda - Nyakabale-Gatyanga - 1025986,1025986,Western Region,Kasese,Kitswamba,2021,Identified,Identified in Needs Assessment,,,,0.379175,30.198456,7621.54,40535.5,0
+Uganda - Kinyabwamba Lower - Sinai - 1025987,1025987,Western Region,Kasese,Kitswamba,2021,Identified,Identified in Needs Assessment,,,,0.318519,30.151438,2285.42,24521.92,0
+Uganda - Kahembe-Kasanga - 1025988,1025988,Western Region,Kasese,Kitswamba,2021,Identified,Identified in Needs Assessment,,,,0.332089,30.150926,2334.12,21606.72,0
+Uganda - Kihyo-Kagando - 1025991,1025991,Western Region,Kasese,Kitswamba,2021,Identified,Identified in Needs Assessment,,,,0.35339,30.149908,3092.82,26433.61,0
+Uganda - Butebuya-Kagando - 1025992,1025992,Western Region,Kasese,Kitswamba,2021,Identified,Identified in Needs Assessment,,,,0.350077,30.150403,2860.99,25120.19,0
+Uganda - Kyarugomoka-Izinga - 1025993,1025993,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.31149,30.104902,3675.19,19370.35,0
+Uganda - Muwelo-Kiryamutaka - 1025994,1025994,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.356128,30.095765,2723.25,23662.27,0
+Uganda - Kalhonge-Mayiboze - 1025995,1025995,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.376211,30.077556,2954.06,23842.28,0
+Uganda - Buloba-Kitoko - 1025996,1025996,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.369789,30.081199,2743.22,23991.8,0
+Uganda - Sinai-Kinyabwamba - 1025999,1025999,Western Region,Kasese,Maliba,2021,Identified,Identified in Needs Assessment,,,,0.321499,30.147008,2017.98,22626.3,0
+Uganda - Kasojo-Kinyamwenge - 1026000,1026000,Western Region,Kasese,Hima Town Council,2021,Identified,Identified in Needs Assessment,,,,0.292831,30.171791,9904.71,28003.82,0
+Uganda - Ibunda-Kinyangwa - 1026001,1026001,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.401466,30.095778,7116.47,31943.26,0
+Uganda - Ibunda - 1026002,1026002,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.39827,30.095476,7022.97,31733,0
+Uganda - Kuruhe - Bughendera Health Centre II - 1026003,1026003,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.395715,30.106299,7555.13,35313.63,0
+Uganda - Kasenyi - 1026004,1026004,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.395094,30.126927,8764.4,41873.42,0
+Uganda - Butera - 1026005,1026005,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.394115,30.133835,9208.51,43254.74,0
+Uganda - Kasambya - 1026006,1026006,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.38009,30.12006,6307.66,36314.94,0
+Uganda - Kikoka-Rwesande - 1026007,1026007,Western Region,Kasese,Buhuhira,2021,Identified,Identified in Needs Assessment,,,,0.387763,30.148532,8655.76,42954.84,0
+Uganda - Butswa-Nyakarambi - 1026008,1026008,Western Region,Kasese,Kabatunda-Kirabaho Town Council,2021,Identified,Identified in Needs Assessment,,,,0.42026,30.176746,7572.7,45067.51,0
+Uganda - Kibenze-Nyabwina - 1026009,1026009,Western Region,Kasese,Kyabarungira,2021,Identified,Identified in Needs Assessment,,,,0.40786,30.183009,7010.3,48252.93,0
+Uganda - Rwesande II - Kahondo - 1026010,1026010,Western Region,Kasese,Kyabarungira,2021,Identified,Identified in Needs Assessment,,,,0.392178,30.140182,9253.25,43962.82,0
+Uganda - Nyambuku - 1036859,1036859,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.354563,30.067922,2935.67,18554.08,0
+Uganda - Kasilingi-Gatyanga - 1036850,1036850,Western Region,Kasese,Rugendabara-Kikongo Town Council,2021,Identified,Identified in Needs Assessment,,,,0.376899,30.199969,8278.07,39169.71,0
+Uganda - Lhume-Gatyanga - 1036851,1036851,Western Region,Kasese,Rugendabara-Kikongo Town Council,2021,Identified,Identified in Needs Assessment,,,,0.375295,30.204147,9485.99,37857.99,0
+Uganda - Nyabubale - Mubuku Prison - 1036852,1036852,Western Region,Kasese,Karusandara,2021,Identified,Identified in Needs Assessment,,,,0.247111,30.144712,4244.63,30003.33,0
+Uganda - Kaswa-Mbata - 1036854,1036854,Western Region,Kasese,Bwesumbu,2021,Identified,Identified in Needs Assessment,,,,0.42759,30.102894,4722.46,31747.01,0
+Uganda - Bwesumbu 2 - Kabatunda 2 - 1036855,1036855,Western Region,Kasese,Bwesumbu,2021,Identified,Identified in Needs Assessment,,,,0.427928,30.144296,7200.84,39580.29,0
+Uganda - Kalhubulha - 1036856,1036856,Western Region,Kasese,Kabatunda-Kirabaho Town Council,2021,Identified,Identified in Needs Assessment,,,,0.430342,30.169275,6773.57,42414.05,0
+Uganda - Kibuga - 1036857,1036857,Western Region,Kasese,Karusandara,2021,Identified,Identified in Needs Assessment,,,,0.234287,30.178211,1035.83,12912.75,0
+Uganda - Kamabwe - 1036858,1036858,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.351061,30.073315,3076.04,18958.05,0
+Uganda - Mulyasabu - 1036860,1036860,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.357672,30.064732,2937.62,18501.27,0
+Uganda - Kisungwa - 1036861,1036861,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.360185,30.063894,2965.84,18780.06,0
+Uganda - Kyanika-Nyambuku - 1036862,1036862,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.36593,30.05262,3121.36,17281.54,0
+Uganda - Rwenzori High - 1036863,1036863,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.321051,30.080091,3353.93,18396.2,0
+Uganda - Kitakena - 1036864,1036864,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.337792,30.083578,3474.44,19119.76,0
+Uganda - Nyambuku-Kyanya - 1036865,1036865,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.333542,30.084256,3560.28,19029.28,0
+Uganda - Kikoga-Nyakakindo - 1036866,1036866,Western Region,Kasese,Karusandara,2021,Identified,Identified in Needs Assessment,,,,0.251201,30.198658,1810.79,15911.03,0
+Uganda - Nyakabiira - 1036927,1036927,Western Region,Kasese,Ibanda-Kyanya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.372515,30.047468,3135.06,16504.71,0
+Uganda - Kyambara-Mahango - 1036928,1036928,Western Region,Kasese,Mahango,2021,Identified,Identified in Needs Assessment,,,,0.141642,29.994049,8509.67,31898.64,0
+Uganda - Kyamuduma 2 - 1036929,1036929,Western Region,Kasese,Mahango,2021,Identified,Identified in Needs Assessment,,,,0.125503,29.992582,6405.91,28494.89,0
+Uganda - Rutoke - 1036933,1036933,Western Region,Kasese,Muhokya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.078397,30.049194,1479.32,5648.33,0
+Uganda - Kahokya-Kalere - 1036930,1036930,Western Region,Kasese,Kahokya,2021,Identified,Identified in Needs Assessment,,,,0.051144,29.960176,761.07,9315.37,0
+Uganda - Kahokya-Kabiriti - 1036931,1036931,Western Region,Kasese,Kahokya,2021,Identified,Identified in Needs Assessment,,,,0.068152,29.957458,1664.77,13428.6,
+Uganda - Kikeri - 1036934,1036934,Western Region,Kasese,Muhokya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.076227,30.050705,1367.9,5382.91,0
+Uganda - Kisongora - 1036935,1036935,Western Region,Kasese,Muhokya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.094882,30.029107,1118.25,9759.44,0
+Uganda - Leo - 1036936,1036936,Western Region,Kasese,Muhokya Town Council,2021,Identified,Identified in Needs Assessment,,,,0.095169,30.028037,1059.76,10014.19,0
+Uganda - Kapapi - 1037599,1037599,Western Region,Hoima,Kigorobya,2021,Identified,Identified in Needs Assessment,,,,1.639781,31.340486,4125.55,29720.72,
+Uganda - Kenkorogo - 1040958,1040958,Western Region,Ibanda,Nyabuhikye,2021,Identified,Identified in Needs Assessment,,,,-0.244177,30.505305,2263.68,18920.88,1480
+Uganda - Ruboni-kyambowu - 1038158,1038158,Western Region,Kasese,Ibanda-kyanya,2022,Identified,Identified in Needs Assessment,,Hybrid Suspension Bridge,60,0.338746,30.031664,1834,14058.92,6046
+Uganda - Bukumi - 1040947,1040947,Western Region,Buliisa,Biiso,2022,Identified,Identified in Needs Assessment,,,,1.764117,31.385767,3628.91,23841.55,0
+Uganda - Kyamukwenda - 1040949,1040949,Western Region,Hoima,Kapapi,2022,Identified,Identified in Needs Assessment,,,,1.70399,31.337879,2709.34,17180.62,0
+Uganda - Sambye 2 - 1040950,1040950,Western Region,Buliisa,,2022,Identified,Identified in Needs Assessment,,,,2.124358,31.434485,3825.38,17201.23,0
+Uganda - Nyarigata-Rwamasaazo - 1052139,1052139,Western Region,Rukiga,Kamwezi,2022,Identified,Identified in Needs Assessment,,,,-1.212598,30.171454,2823.06,20031.69,2800
+Uganda - Mituri- Kyamiyaga(Bunyangabu) - 1025711,1025711,Western Region,Kabarole,Rutete,2023,Identified,Identified in Needs Assessment,,,,0.537663,30.258733,3101.37,22283.93,0
+Uganda - Kibagha A - 1025730,1025730,Western Region,Kabarole,Karangura,2023,Identified,Identified in Needs Assessment,,,,0.654765,30.166887,6131.3,33306.14,0
+Uganda - Kamigani A- Mabona zone(Bunyangabu) - 1025713,1025713,Western Region,Kabarole,Ruteete,2023,Identified,Identified in Needs Assessment,,,,0.51063,30.266401,2504.79,19311.13,0
+Uganda - Kyanetemba-Katika - 1025715,1025715,Western Region,Kabarole,Ruteete,2023,Identified,Identified in Needs Assessment,,,,0.504007,30.268756,2441.02,18831.23,0
+Uganda - Kyakagusa- Burunda - 1025717,1025717,Western Region,Kabarole,Ruteete,2023,Identified,Identified in Needs Assessment,,,,0.522079,30.333838,2618.52,14271.95,0
+Uganda - Harugongo-kikonge A - 1025723,1025723,Western Region,Kabarole,Harugongo,2023,Identified,Identified in Needs Assessment,,,,0.709731,30.269785,4499.24,35601.34,0
+Uganda - Harugongo-Kikonge - 1025725,1025725,Western Region,Kabarole,Harugongo,2023,Identified,Identified in Needs Assessment,,,,0.713138,30.269961,4278.32,32721.31,0
+Uganda - Lyesikundu - 1025726,1025726,Western Region,Kabarole,Bukuku,2023,Identified,Identified in Needs Assessment,,,,0.655713,30.206933,9262.27,51660.3,0
+Uganda - Nyabigo - 1025727,1025727,Western Region,Kabarole,Bukuku,2023,Identified,Identified in Needs Assessment,,,,0.662644,30.212962,10997.67,51000.12,0
+Uganda - Mandako - 1025728,1025728,Western Region,Kabarole,Bukuku,2023,Identified,Identified in Needs Assessment,,,,0.656335,30.193829,7743,47337.56,0
+Uganda - Kihinda A- Mitoomi - 1025734,1025734,Western Region,Kabarole,Karangura,2023,Identified,Identified in Needs Assessment,,,,0.709437,30.184958,5755.24,29663.58,0
+Uganda - Kihwera - 1025729,1025729,Western Region,Kabarole,Bukuku,2023,Identified,Identified in Needs Assessment,,,,0.657305,30.180105,7623.16,40344.46,0
+Uganda - Nyarukamba B - 1025731,1025731,Western Region,Kabarole,Karangura,2023,Identified,Identified in Needs Assessment,,,,0.659984,30.15836,4666.28,29659.44,0
+Uganda - Kibagha B - 1025732,1025732,Western Region,Kabarole,Karangura,2023,Identified,Identified in Needs Assessment,,,,0.659773,30.166483,5943.87,33086.88,0
+Uganda - Masongola - 1025821,1025821,Western Region,Kabarole,Kabende,2023,Identified,Identified in Needs Assessment,,,,0.886076,30.497318,2745.82,16616.54,0
+Uganda - Fortportal Hospital bridge - 1025822,1025822,Western Region,Kabarole,Fortportal city,2023,Identified,Identified in Needs Assessment,,,,0.656578,30.280525,32289.44,87138.15,0
+Uganda - Mpanga market - 1025823,1025823,Western Region,Kabarole,Fortportal city,2023,Identified,Identified in Needs Assessment,,,,0.656779,30.278464,33221.57,87906.48,0
+Uganda - Kisabo 1 - 1025843,1025843,Western Region,Ibanda,Kicuzi,2023,Identified,Identified in Needs Assessment,,,,-0.158912,30.361206,3240.53,18014.25,0
+Uganda - Karuhisi - 1025842,1025842,Western Region,Ibanda,Kicuzi,2023,Identified,Identified in Needs Assessment,,,,-0.148989,30.275841,1223.96,9565.5,0
+Uganda - Mutuure - 1025844,1025844,Western Region,Ibanda,Kicuzi,2023,Identified,Identified in Needs Assessment,,,,-0.172347,30.372726,4059.09,20743.53,0
+Uganda - NYAKATSE - 1026041,1026041,Western Region,Kasese,KYONDO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.105788,29.897304,3746.29,33543.09,0
+Uganda - COMPASSION - 1026042,1026042,Western Region,Kasese,KISINGA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.065598,29.871038,8272.23,45073.14,0
+Uganda - KAMBALA - 1026043,1026043,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.023428,29.848451,7577.97,45021.88,0
+Uganda - BURUMBIKA TO IHANURA - 1026012,1026012,Western Region,Kasese,KYONDO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.114932,29.914496,2520.29,24867.96,0
+Uganda - BUYAGHA - 1026013,1026013,Western Region,Kasese,KYONDO SUB SCOUNTY,2023,Identified,Identified in Needs Assessment,,,,0.110779,29.915023,2732.79,27509.01,0
+Uganda - KIRIMWIHANGO - 1026018,1026018,Western Region,Kasese,ISANGO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.018187,29.750094,26533.14,108330.72,0
+Uganda - MUROHO - 1026019,1026019,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.095858,29.760961,5012.73,36112.31,0
+Uganda - KISEBERE PRIMARY SCHOOL - 1026020,1026020,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.118978,29.755668,5293.75,20094.07,0
+Uganda - PADDY KABAGAMBI - 1026021,1026021,Western Region,Kasese,KITHOLHUSUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.088755,29.746801,6259.06,44469.2,0
+Uganda - KYAMINYAWANDI- KYESERO - 1026022,1026022,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,-0.000017,29.813577,6585.29,39155.87,0
+Uganda - MUHINDI KIGHUTHU - 1026023,1026023,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.049084,29.813406,2599.74,36580.32,0
+Uganda - KATHIKALI - 1026024,1026024,Western Region,Kasese,NYAKIYUMBU l SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,-0.030712,29.803757,1230.38,26050.48,0
+Uganda - KYABISORO KITSUTSU - 1026025,1026025,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.015589,29.813419,4547.34,45424.22,0
+Uganda - KANYAMPARA 1 - 1026026,1026026,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.042318,29.858419,6876.25,40402.47,0
+Uganda - DOLF - 1026027,1026027,Western Region,Kasese,KISINGA TOWN COUNCIL,2023,Identified,Identified in Needs Assessment,,,,0.076043,29.89759,13947.43,40644.59,0
+Uganda - KYAMPARA KAMUKUMBI - 1026029,1026029,Western Region,Kasese,ISANGO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.009269,29.748408,15624.38,93824.07,0
+Uganda - KIGHUTHU - 1026030,1026030,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.048897,29.813093,2597.32,36828.86,0
+Uganda - MADEBE - 1026031,1026031,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.031779,29.855496,6991.63,43688.72,0
+Uganda - KITSUTSU - NYAKASOJO - 1026032,1026032,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.022374,29.81342,3990.29,46514.24,0
+Uganda - NKUNYU 11 KEMANGO - 1026033,1026033,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.01971,29.846355,7991.65,45401.76,0
+Uganda - KARAMBI DEN - 1026034,1026034,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.028409,29.857984,6590.35,44690.36,0
+Uganda - KEMANGO KACUNGIRO - 1026035,1026035,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.021101,29.857893,6253.78,45876.05,0
+Uganda - KANYAMPARA DOING - 1026036,1026036,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.041356,29.85145,6952.67,38454.44,0
+Uganda - MURUGA - 1026037,1026037,Western Region,Kasese,KISINGA TOWN COUNCIL,2023,Identified,Identified in Needs Assessment,,,,0.08068,29.90038,11510.51,40239.7,0
+Uganda - MUNKUNYU 11 KEMANGO - 1026039,1026039,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.020771,29.850035,7518.5,45764.56,0
+Uganda - NYABIRONGO 1 - 1026040,1026040,Western Region,Kasese,KISINGA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.070728,29.87478,9553.59,44756.72,0
+Uganda - KYAMAKUNGU - 1036853,1036853,Western Region,Kasese,KYONDO SUBCOUNTY,2023,Identified,Identified in Needs Assessment,,,,0.109207,29.932376,3348.09,22829.89,0
+Uganda - NYAMUSULE IHANDIRO - 1036867,1036867,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.091797,29.776594,4743.69,35365.89,0
+Uganda - KABANDYA - 1036868,1036868,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.117068,29.784565,3550.57,23322.22,0
+Uganda - MALABA - 1036869,1036869,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.104166,29.73709,3452.05,25813.16,0
+Uganda - KATHASENDA KASUNGU - 1036870,1036870,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.037928,29.846857,7129.92,40027.98,0
+Uganda - KYABIKEKURU - 1036871,1036871,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.115718,29.759679,5240.39,21863.06,0
+Uganda - COMPASSION - 1036872,1036872,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.098281,29.740045,4409.83,31515.47,0
+Uganda - LYAKIREMA 1 - 1036873,1036873,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.031527,29.808948,2453.35,47485.95,0
+Uganda - KATHOLHU KIHAGHURA - 1036874,1036874,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,-0.013707,29.771137,4046.23,32038.45,0
+Uganda - KAMAHANGA - 1036875,1036875,Western Region,Kasese,KISINGA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.065165,29.873469,9044.66,44958.43,0
+Uganda - SELESTINE - 1036876,1036876,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.034742,29.856901,6968.1,42285.61,0
+Uganda - NYAKATSE - 1036877,1036877,Western Region,Kasese,KYONDO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.082716,29.899499,10618.12,40420.25,0
+Uganda - KANYAMPARA WATER CHANNEL 11 - 1036878,1036878,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.035902,29.857091,6944.63,41722.83,0
+Uganda - LYAKIREMA 11 NYAKASOJO - 1036879,1036879,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.031185,29.808621,2399.17,47947.23,0
+Uganda - NKUNYU I - 1036880,1036880,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.02403,29.84045,7867.85,43484.23,0
+Uganda - NYABIRONGO - 1036881,1036881,Western Region,Kasese,KISINGA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.069131,29.871359,8421.66,45006.48,0
+Uganda - NYAKATSE - 1036882,1036882,Western Region,Kasese,KYONDO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.094603,29.893158,6065.32,39578.61,0
+Uganda - DUBAI - 1036883,1036883,Western Region,Kasese,KISINGA TOWN COUNCIL,2023,Identified,Identified in Needs Assessment,,,,0.076826,29.900453,13210.96,40036.13,0
+Uganda - BUKANGARA KYESERO 2 - 1036884,1036884,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.00871,29.814928,6075.76,42445.02,0
+Uganda - NYAKASOJO KYABIRUNGU - 1036885,1036885,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.032395,29.814517,3366.65,44106.75,0
+Uganda - KANYAMPARA MIDDLE - 1036886,1036886,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.031104,29.868645,5374.49,41064.95,0
+Uganda - KEMANGO NYAMUTOTO - 1036887,1036887,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.022898,29.856564,6505.64,45813.77,0
+Uganda - KAGANDO 2 CELL - 1036888,1036888,Western Region,Kasese,KISINGA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.070146,29.910995,10784.19,36385.95,0
+Uganda - KATHASENDA- KILHAMBAYIRO - 1036889,1036889,Western Region,Kasese,MUNKUNYU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.043354,29.850649,6890.24,37425.8,0
+Uganda - NYAKATSE - 1036890,1036890,Western Region,Kasese,KYONDO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.092171,29.894541,6654.67,40137.3,0
+Uganda - NYAKATSE - 1036891,1036891,Western Region,Kasese,KYONDO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.087095,29.897366,8472.53,40594.81,0
+Uganda - NGOME KAJOROGHO - 1036893,1036893,Western Region,Kasese,KYONDO,2023,Identified,Identified in Needs Assessment,,,,0.098871,29.917701,3577.8,33556.17,0
+Uganda - BUKANGARA KASANGA CELL - 1036937,1036937,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.131058,29.945631,3892.86,23564.45,0
+Uganda - KYAKORA BUKANGARA - 1036938,1036938,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.134302,29.939336,3493.93,21600.36,0
+Uganda - KABUGHABUGHAE CHURCH - 1036939,1036939,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.141358,29.934607,3221.77,19803.87,0
+Uganda - MUSYANGENDO - 1036940,1036940,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.145386,29.932185,3127.99,18905.32,0
+Uganda - MUGHANZA TRADING CENTRE - 1036941,1036941,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.149982,29.929437,3066.18,18035.42,0
+Uganda - KANGOTI GOLINGO - 1036942,1036942,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.161423,29.930593,3130.68,17719.97,0
+Uganda - KABIKENGE - 1036943,1036943,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.177334,29.965499,3532.96,25429.97,0
+Uganda - KIBIRIGHA 2 KALONGE - 1036944,1036944,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.175244,29.964349,3643.14,25386.73,0
+Uganda - KIBIRIGHA 2 _ MUTAMBI - 1036945,1036945,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.165684,29.964487,4156.84,27539.25,0
+Uganda - KIBIRIGHA _ KITABONA - 1036946,1036946,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.155498,29.965507,4387.24,29562.66,0
+Uganda - KASABU - 1036947,1036947,Western Region,Kasese,KITHOLHU SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.108615,29.73604,3121.9,22421.79,0
+Uganda - ISANGO- KAMUKUMBI - 1036948,1036948,Western Region,Kasese,ISANGO SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.000133,29.738337,5612.85,71851.4,0
+Uganda - Waaki East - 1038817,1038817,Western Region,Buliisa,Kihungye,2023,Identified,Identified in Needs Assessment,,,,1.705923,31.384239,3864.66,18658.86,0
+Uganda - Kyabarungi-Kayongo(biiso t/c) - 1038820,1038820,Western Region,Buliisa,Kihungye,2023,Identified,Identified in Needs Assessment,,,,1.740875,31.428679,3562.9,20971.88,0
+Uganda - Hamuyaga- buyaga - 1038885,1038885,Western Region,Kyegegwa,Kyaka,2023,Identified,Identified in Needs Assessment,,,,0.632542,31.211681,1894.59,16126.56,450
+Uganda - Kisana-bubisi - 1038886,1038886,Western Region,Kyegegwa,Hapuyo- Nkakwa,2023,Identified,Identified in Needs Assessment,,,,0.608696,31.113404,2993.98,18096.08,2330
+Uganda - Kihongorwa- Kicwamba - 1038887,1038887,Western Region,Kyegegwa,Kigambo,2023,Identified,Identified in Needs Assessment,,,,0.695889,30.971645,2457.76,17776.28,3020
+Uganda - Rwembogo- Rushambuye - 1038888,1038888,Western Region,Kyegegwa,Ruyonza-rwentuha,2023,Identified,Identified in Needs Assessment,,,,0.28099,30.8896,2149.95,15430.33,2670
+Uganda - Mabaale- muyanja(kibaale) - 1038937,1038937,Western Region,Kyegegwa,Kitabo subcounty,2023,Identified,Identified in Needs Assessment,,,,0.704141,30.949423,3662.15,17617,4450
+Uganda - Kizenga(kanungu)-kitare(rubanda) - 1039080,1039080,Western Region,Kanungu,Kinaaba,2023,Identified,Identified in Needs Assessment,,,,-1.009582,29.785871,2630.91,15704.57,1650
+Uganda - Karuwe - 1039077,1039077,Western Region,Ntoroko,Nombe,2023,Identified,Identified in Needs Assessment,,,,0.740607,30.196921,4365.16,24215.08,1598
+Uganda - Kayanja 3 - 1039078,1039078,Western Region,Ntoroko,Bweramule,2023,Identified,Identified in Needs Assessment,,,,0.924297,30.176304,2182.1,11059.3,1962
+Uganda - Kyamuhamira-Itojo - 1039079,1039079,Western Region,Ntoroko,Karugutu,2023,Identified,Identified in Needs Assessment,,,,0.843757,30.220885,1730.43,11347.92,1865
+Uganda - Kanyangeye-Kisege - 1039088,1039088,Western Region,Ntoroko,Karugutu,2023,Identified,Identified in Needs Assessment,,,,0.905942,30.230273,1453.81,5808.53,920
+Uganda - Itojo- kakindo - 1039089,1039089,Western Region,Ntoroko,Karugutu,2023,Identified,Identified in Needs Assessment,,,,0.842671,30.236381,1579.94,9780.43,1110
+Uganda - Kisege-kasozi - 1039090,1039090,Western Region,Ntoroko,Kibuku TC/ Karugutu TC,2023,Identified,Identified in Needs Assessment,,,,0.924188,30.249651,984.19,3889.3,940
+Uganda - Kayanja 2 - 1039094,1039094,Western Region,Ntoroko,Bweramule,2023,Identified,Identified in Needs Assessment,,,,0.90455,30.169306,2339.38,10758.31,1962
+Uganda - Kiruruma B-nyakasura - 1039097,1039097,Western Region,Kanungu,Kihihi-Nyamirama-Nyakinoni,2023,Identified,Identified in Needs Assessment,,,,-0.678368,29.745029,2122.85,14665.66,970
+Uganda - Katwa cell - 1039095,1039095,Western Region,Kanungu,Kaki,2023,Identified,Identified in Needs Assessment,,,,-0.876436,29.743232,3906.43,23550.91,2510
+Uganda - Kiruruma - 1039096,1039096,Western Region,Kiruhura,Kihihi,2023,Identified,Identified in Needs Assessment,,,,-0.723571,29.716605,2613,26910.43,3230
+Uganda - Kataburaza cell - 1039099,1039099,Western Region,Kanungu,Kayonza,2023,Identified,Identified in Needs Assessment,,,,-0.935014,29.630709,3177.41,24415.03,1270
+Uganda - Kameme(kanungu)- Garuka(rukungiri) - 1039101,1039101,Western Region,Kanungu,Bwambara-Kihihi,2023,Identified,Identified in Needs Assessment,,,,-0.613461,29.740466,781.86,4867.29,1480
+Uganda - Kagera- Itutwe - 1040945,1040945,Western Region,Buliisa,Kihungye,2023,Identified,Identified in Needs Assessment,,,,1.748715,31.40428,4918,23188.76,0
+Uganda - Itutwe A- Itutwe K - 1040946,1040946,Western Region,Buliisa,Biiso,2023,Identified,Identified in Needs Assessment,,,,1.746958,31.391526,4473.84,23887.67,0
+Uganda - KYABITABA - 1040951,1040951,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.151665,29.9639,4079.72,29499.56,0
+Uganda - KIBIRIGHA 2 - 1040952,1040952,Western Region,Kasese,KYARUMBA SUB-COUNTY,2023,Identified,Identified in Needs Assessment,,,,0.155479,29.964936,4299.84,29354.01,0
+Uganda - Garasoya A- Akimwe - 1040957,1040957,Western Region,Buliisa,Kihungye,2023,Identified,Identified in Needs Assessment,,,,1.735088,31.431266,3169.55,20593.62,0
+Uganda - Bukumi2 - 1040954,1040954,Western Region,Buliisa,Biiso,2023,Identified,Identified in Needs Assessment,,,,1.756311,31.386124,3597.02,24166.34,0
+Uganda - Kahemura- Akololoa - 1040955,1040955,Western Region,Buliisa,Biiso- kihungye,2023,Identified,Identified in Needs Assessment,,,,1.744313,31.419939,4443.2,21728.28,0
+Uganda - Kagera-angolyero - 1040956,1040956,Western Region,Buliisa,Kihungye,2023,Identified,Identified in Needs Assessment,,,,1.745345,31.404113,4728.35,23186.48,0
+Uganda - Nyamarebe -Soweto - 1041010,1041010,Western Region,Ibanda,"Nyamarebe LHS, Kabambiro RHS",2023,Identified,Identified in Needs Assessment,,,,0.129619,30.535793,3834.55,18277.06,2420
+Uganda - Sooko B -Kagorogoro - 1041011,1041011,Western Region,Ibanda,Nyamarebe LHS Kabambiro RHS,2023,Identified,Identified in Needs Assessment,,,,0.148178,30.560468,2338.22,19308.32,0
+Uganda - Semei - 1041668,1041668,Eastern Region,Sironko,Bumalaimba RHS-Buhugu LHS,2023,Identified,Identified in Needs Assessment,,,,1.197519,34.332623,15123.13,82970.62,5750
+Uganda - Nabiyil - 1041676,1041676,Eastern Region,Sironko,Bukiise RHS -Lulena LHS,2023,Identified,Identified in Needs Assessment,,,,1.212911,34.282521,5434.29,52328.57,2660
+Uganda - Busima-Cosma - 1041677,1041677,Eastern Region,Sironko,Bukyambi LHS-Busulani RHS,2023,Identified,Identified in Needs Assessment,,,,1.157264,34.341365,19376.83,74428.05,7100
+Uganda - Lwele - 1041690,1041690,Eastern Region,Sironko,Namayonyi LHS -Bukiyi RHS,2023,Identified,Identified in Needs Assessment,,,,1.163242,34.213449,11123.59,67520.86,6270
+Uganda - Bisali- Bunabuka - 1041692,1041692,Eastern Region,Sironko,Buwalasi LHS- Bubeza RHS,2023,Identified,Identified in Needs Assessment,,,,1.161706,34.234087,10751.82,63343.54,1600
+Uganda - Kibira-Samazi - 1042475,1042475,Eastern Region,Bulambuli,Kikobelo LHS-Bulegeni RHS,2023,Identified,Identified in Needs Assessment,,,,1.285081,34.304173,18135.62,95103.95,5200
+Uganda - Biwawa- Bukimaswa - 1042476,1042476,Eastern Region,Bududa,Bushiyi- Busirawa,2023,Identified,Identified in Needs Assessment,,,,1.049512,34.384994,18682.65,112751.04,1600
+Uganda - Bunyanga- Bumwalye - 1042482,1042482,Eastern Region,Bududa,Nabweya- Bulusheke,2023,Identified,Identified in Needs Assessment,,,,1.031987,34.36931,30973.82,142679.98,1600
+Uganda - Namaitsu- Namunyili - 1042484,1042484,Eastern Region,Bududa,Bukibino- Bunatsumi,2023,Identified,Identified in Needs Assessment,,,,1.035556,34.33131,26027.87,143446.05,4630
+Uganda - Kirongo - Nangunga - 1042485,1042485,Eastern Region,Sironko,Bugitimwa,2023,Identified,Identified in Needs Assessment,,,,,,,,4250
+Uganda - Buhatelema- Aminiti - 1042486,1042486,Eastern Region,Bulambuli,Buhalu - Aminiti,2023,Identified,Identified in Needs Assessment,,,,1.299356,34.241369,7581.2,38005.64,80
+Uganda - Nyakarongo - 1025733,1025733,Western Region,Kabarole,Karangura,2024,Identified,Identified in Needs Assessment,,,,0.690652,30.1795,5607.79,34919.29,0
+Uganda - Kitaka-karokalungi - 1025840,1025840,Western Region,Ibanda,Kicuzi,2024,Identified,Identified in Needs Assessment,,,,-0.121584,30.297479,1862.29,13743.59,0
+Uganda - Kabaale-Kisense - 1025883,1025883,Western Region,Ibanda,Nyabuhikye,2024,Identified,Identified in Needs Assessment,,,,-0.242803,30.481807,2597.3,18116.35,0
+Uganda - Kitaraka - 1042644,1042644,Western Region,Rukiga,Rwamucucu,2024,Identified,Identified in Needs Assessment,,,,-1.128105,30.046796,3740.05,19652.16,2350
+Uganda - Ntaraga - 1042646,1042646,Western Region,Rukiga,Kashambya,2024,Identified,Identified in Needs Assessment,,,,-1.088575,30.014854,3747.04,16247.77,910
+Uganda - Nyakisa-kiruhura - 1042648,1042648,Western Region,Rukiga,Kamwezi,2024,Identified,Identified in Needs Assessment,,,,-1.255834,30.191232,3278.82,25168.89,710
+Uganda - Nyakahitta - 1042652,1042652,Western Region,Kabale,Kamuganguzi,2024,Identified,Identified in Needs Assessment,,,,-1.393311,29.969235,3793.5,32431.66,1450
+Uganda - Gwakahuku-Kitabulaza - 1042751,1042751,Western Region,Rukiga,Muhanga,2024,Identified,Identified in Needs Assessment,,,,-1.17414,30.112372,4916.23,30023.07,1250
+Uganda - Nyakanengo - 1042752,1042752,Western Region,Rukiga,Muhanga,2024,Identified,Identified in Needs Assessment,,,,-1.184254,30.113938,6280.88,30228.32,1600
+Uganda - Kanyabugunga-Kabwema - 1042754,1042754,Western Region,Rukiga,Kashambya,2024,Identified,Identified in Needs Assessment,,,,-1.035622,29.960792,3969.94,25688.66,4100
+Uganda - katohire - 1042835,1042835,Western Region,Kabale,Maziba,2024,Identified,Identified in Needs Assessment,,,,-1.304815,30.103335,3075.1,19683.68,7000
+Uganda - Mukokye kahondo - 1042836,1042836,Western Region,Kabale,Maziba,2024,Identified,Identified in Needs Assessment,,,,-1.338786,30.163179,5274.82,35881.84,1450
+Uganda - Lyamunjungu- Hamurambi - 1042837,1042837,Western Region,Kabale,Kaharo,2024,Identified,Identified in Needs Assessment,,,,-1.272252,30.084182,3840.58,23917.3,1650
+Uganda - Ruhitta-Butobere - 1042838,1042838,Western Region,Kabale,Kyanamira- kabale municipality,2024,Identified,Identified in Needs Assessment,,,,-1.255263,30.013541,14482.04,73381.12,9850
+Uganda - Kitibya - 1042840,1042840,Western Region,Kabale,Kyanamira,2024,Identified,Identified in Needs Assessment,,,,-1.290181,30.047202,3558.37,27764.76,4800
+Uganda - Omukisyama-Nyanja trading center - 1042842,1042842,Western Region,Kabale,Maziba-kaharo,2024,Identified,Identified in Needs Assessment,,,,-1.28817,30.094482,3424.43,20935.34,3600
+Uganda - Nyarutojjo-Ruhitta - 1042843,1042843,Western Region,Kabale,Buhara,2024,Identified,Identified in Needs Assessment,,,,-1.328158,30.070879,3847.49,20523.16,2500
+Uganda - Karujabura - 1042844,1042844,Western Region,Kabale,Kitumba,2024,Identified,Identified in Needs Assessment,,,,-1.26516,29.969911,12262.04,75938.35,2566
+Uganda - Rushomo - 1042845,1042845,Western Region,Kabale,Buhara,2024,Identified,Identified in Needs Assessment,,,,-1.364208,30.05749,3565.21,25390.01,2950
+Uganda - Kihanga- Ruhitta - 1042846,1042846,Western Region,Kabale,Buhara,2024,Identified,Identified in Needs Assessment,,,,-1.402487,30.037742,5688.21,40183.14,4350
+Uganda - Omumasaka A B - Kagando B - 1043209,1043209,Western Region,Rubirizi,Kicwamba- kirugu,2024,Identified,Identified in Needs Assessment,,,,-0.210364,30.117034,4368.25,27733.88,3500
+Uganda - Nyakanengo- Nyakahitta - 1043211,1043211,Western Region,Rubirizi,Katerera- Kyabakara,2024,Identified,Identified in Needs Assessment,,,,-0.166482,30.178766,2307.98,20794.93,2015
+Uganda - Nyangorogoro 1 - Kashyoha kitomi forest Reserve - 1043212,1043212,Western Region,Rubirizi,Magambo,2024,Identified,Identified in Needs Assessment,,,,-0.261692,30.147177,3839.78,30620.44,420
+Uganda - Nyamirima III - 1043215,1043215,Western Region,Rubirizi,Katerera,2024,Identified,Identified in Needs Assessment,,Suspended Bridge,34,-0.186953,30.193561,4439.35,31326.48,960
+Uganda - Kisamutongole-kikokwa - 1044557,1044557,Western Region,Kyenjojo,"Bugaaki RHS-Rugombe town council, Buttiti town council",2024,Identified,Identified in Needs Assessment,,,,0.652686,30.485228,3063.25,20814.09,2500
+Uganda - Kyasaagi-Mabale - 1044558,1044558,Western Region,Kyenjojo,Bugaaki,2024,Identified,Identified in Needs Assessment,,,,0.696083,30.465678,3239.94,19603.8,610
+Uganda - Kibaale-katambale - 1044559,1044559,Western Region,Kyenjojo,Kyarushozi town council- kigoyera subcounty,2024,Identified,Identified in Needs Assessment,,,,0.834645,30.540668,3000.97,20939.29,3350
+Uganda - Kanena- kijebere - 1044560,1044560,Western Region,Kyenjojo,Kyabirongo,2024,Identified,Identified in Needs Assessment,,Suspended Bridge,36,0.779446,30.764551,3528.17,23892.01,2505
+Uganda - Kitooma-Nyamasoga - 1044561,1044561,Western Region,Kyenjojo,Kyarushozi,2024,Identified,Identified in Needs Assessment,,,,0.779182,30.548953,3715.59,19322.78,90
+Uganda - Kisamutongole- enyanja etagera - 1044563,1044563,Western Region,Kyenjojo,Bugaaki,2024,Identified,Identified in Needs Assessment,,,,0.662973,30.470145,2993.72,20794.22,270
+Uganda - Nyamiyaga-Kanyandahi - 1044564,1044564,Western Region,Kyenjojo,Nyantungo RHS,2024,Identified,Identified in Needs Assessment,,,,0.538058,30.660614,1715.69,11602.99,21500
+Uganda - Nyamitooma - 1044649,1044649,Western Region,Kabale,Kibuga,2024,Identified,Identified in Needs Assessment,,,,-1.423826,29.968972,4874.43,41060.07,1200
+Uganda - Nyinabirere- musenyi A - 1044650,1044650,Western Region,Kabale,Butanda,2024,Identified,Identified in Needs Assessment,,,,-1.459017,29.913755,5063.19,30693.01,1470
+Uganda - Omukarere - 1044651,1044651,Western Region,Kabale,Maziba,2024,Identified,Identified in Needs Assessment,,,,-1.30694,30.151032,3477.95,24953.8,1700
+Uganda - Kifurugutu- Butebe - 1044653,1044653,Western Region,Kabale,Butanda subcounty,2024,Identified,Identified in Needs Assessment,,,,-1.359362,29.899284,3015.99,24184.54,2700
+Uganda - Toloro-Moipi - 1050248,1050248,Northern Region,Moyo,Moyo subcounty,2024,Identified,Identified in Needs Assessment,,,,3.632638,31.70688,2242.69,19018.74,1910
+Uganda - Uruba West - 1050249,1050249,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.685823,31.783232,2499.73,10887.17,1010
+Uganda - Uruba -padiga - 1050252,1050252,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.691269,31.785865,1969.37,10175.93,1270
+Uganda - Gwere-luzira - 1050253,1050253,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.663811,31.801278,3246.9,14446.53,1580
+Uganda - Kendi 2 - 1050250,1050250,Northern Region,Moyo,Moyo subcounty,2024,Identified,Identified in Needs Assessment,,,,3.686199,31.725402,1370.63,17657.46,1050
+Uganda - Minji East - 1050251,1050251,Northern Region,Moyo,Moyo subcounty,2024,Identified,Identified in Needs Assessment,,,,3.71957,31.723965,359.98,7290.76,1720
+Uganda - Paleure - 1050255,1050255,Northern Region,Moyo,Meth subcou ty,2024,Identified,Identified in Needs Assessment,,,,3.619572,31.815409,2241.15,9632.08,1648
+Uganda - Minya - 1050254,1050254,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.661615,31.791609,3368.91,14688.82,1250
+Uganda - Onigo - 1050256,1050256,Northern Region,Moyo,Moyo subcounty,2024,Identified,Identified in Needs Assessment,,,,3.624914,31.696286,1021,15181.54,1410
+Uganda - Pataboi-indri - 1050259,1050259,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.684041,31.79157,2808.45,11586.85,440
+Uganda - Lowi quarter - 1050257,1050257,Northern Region,Moyo,Moyo TC,2024,Identified,Identified in Needs Assessment,,,,3.647823,31.725539,12218.73,21384.51,640
+Uganda - Lowi quarter 2 - 1050258,1050258,Northern Region,Moyo,Moyo TC,2024,Identified,Identified in Needs Assessment,,,,3.645758,31.724125,12155.31,21138.39,400
+Uganda - Congo - 1050261,1050261,Northern Region,Moyo,Moyo TC,2024,Identified,Identified in Needs Assessment,,,,3.657534,31.722128,11755.08,21458.35,280
+Uganda - Patina south-iyua - 1050262,1050262,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.697262,31.785393,1506.02,9149.78,390
+Uganda - Besie 4 - 1050260,1050260,Northern Region,Moyo,Moyo TC,2024,Identified,Identified in Needs Assessment,,,,3.648787,31.717208,11433.58,20990.09,380
+Uganda - Totoa C - 1050308,1050308,Northern Region,Moyo,Laropi,2024,Identified,Identified in Needs Assessment,,,,3.595097,31.830915,1278.64,9360.57,300
+Uganda - Elegu - 1050302,1050302,Northern Region,Moyo,Metu,2024,Identified,Identified in Needs Assessment,,,,3.750561,31.804625,419.07,2773.13,967
+Uganda - Ubbi 2 - 1050305,1050305,Northern Region,Moyo,Laropi,2024,Identified,Identified in Needs Assessment,,,,3.589175,31.831065,1613.96,9624.66,250
+Uganda - Metu quarter - 1050303,1050303,Northern Region,Moyo,Moyo TC,2024,Identified,Identified in Needs Assessment,,,,3.659184,31.720775,11272.79,21340.15,254
+Uganda - Totowa - 1050306,1050306,Northern Region,Moyo,Laropi,2024,Identified,Identified in Needs Assessment,,,,3.591283,31.829867,1501.61,9596.93,250
+Uganda - Besie 3 - 1050304,1050304,Northern Region,Moyo,Moyo TC,2024,Identified,Identified in Needs Assessment,,,,3.647626,31.718551,11740.97,20992.62,250
+Uganda - Totoa B - 1050307,1050307,Northern Region,Moyo,Laropi subcounty,2024,Identified,Identified in Needs Assessment,,,,3.591976,31.830096,1463.57,9535.97,300
+Uganda - Kagali 2 - 1050428,1050428,Western Region,Rubanda,Kashasha TC,2024,Identified,Identified in Needs Assessment,,,,-1.348924,29.875066,7123.09,30276.12,190
+Uganda - Rushakye - 1050435,1050435,Western Region,Rubanda,Yamweru,2024,Identified,Identified in Needs Assessment,,,,-1.177952,29.965831,4369.17,30392.45,1195
+Uganda - Kyamujundo-kakindo - 1051998,1051998,Western Region,Kakumiro,Kitaihuka-kibijo,2024,Identified,Identified in Needs Assessment,,,,0.92281,31.32619,2099.11,14329.82,250
+Uganda - Kagali - 1050429,1050429,Western Region,Rubanda,,2025,Identified,Identified in Needs Assessment,,,,-1.349926,29.874187,7163.48,30702.79,190
+Uganda - Kacerere - 1050430,1050430,Western Region,Rubanda,Kacerere TC,2025,Identified,Identified in Needs Assessment,,,,-1.268066,29.856423,4152.01,20144.9,200
+Uganda - Mugunga - 1050432,1050432,Western Region,Rubanda,Muko subcounty,2025,Identified,Identified in Needs Assessment,,,,-1.16212,29.808521,3746,27081.19,268
+Uganda - Mumparo-lurengere - 1050433,1050433,Western Region,Rubanda,Rubanda TC,2025,Identified,Identified in Needs Assessment,,,,-1.147286,29.868197,4618.47,27180.57,966
+Uganda - Kiringa - kamuhoko - 1050434,1050434,Western Region,Rubanda,Ikumba,2025,Identified,Identified in Needs Assessment,,,,-1.099607,29.846365,3335.82,21213.61,1425
+Uganda - Karusandara-Kikoonjo - 1039308,1039308,Western Region,Kasese,Karusandara,2022,Identified,Requested,,,,,,,,
+Uganda - Bikone-rihone - 1040959,1040959,Western Region,Kasese,Ibanda-kyanya,2022,Identified,Requested,,,,0.343463,30.040405,2087.63,15270.74,0
+Uganda - Kisebere-kinone - 1041134,1041134,Western Region,Kasese,Kitholthu -Kitholthu,2023,Identified,Requested,,,,0.118933,29.755611,5273.86,20112.45,11669
+Uganda - Kyarujumba- Kikuube district - 1047560,1047560,Western Region,Kakumiro,Kakindo,2024,Identified,Requested,,,,1.143748,31.10614,1843.61,10613.92,680
+Uganda - Kaguwa- Kikuube district - 1047561,1047561,Western Region,Kakumiro,Kakindo SC,2024,Identified,Requested,,,,1.177188,31.141612,2123.76,12264.52,400
+Uganda - Wosita lower - 1050236,1050236,Eastern Region,Sironko,Budadiri,2024,Identified,Requested,,,,1.17175,34.307751,22.01,140.94,2079
+Uganda - Kyakanwa-mirambi - 1052000,1052000,Western Region,Kakumiro,Kisengere- bwanswa,2024,Identified,Requested,,,,0.826711,31.25012,2062.73,13367.1,150
+Uganda - Kosowon - 1011117,1011117,Eastern Region,Kween,Binyiny,2019,Identified,,,,,1.405069,34.527525,7128,40553,1900
+Uganda - Bsuhe - 1037305,1037305,Central Region,Kalungu,Jkjuui,2021,Identified,,,,,,,,,
+Uganda - Kibambura - 1037591,1037591,Western Region,Buliisa,Ngwendo,2021,Identified,,,,,2.124192,31.436144,3707.89,16956.31,
+Uganda - Katumba - 1037595,1037595,Western Region,Buliisa,Biso,2021,Identified,,,,,1.762106,31.437281,3204.08,16024.83,
+Uganda - Kacungiro - 1037596,1037596,Western Region,Hoima,Buhimba,2021,Identified,,,,,,,,,
+Uganda - Papapi-kyamukwenda - 1037597,1037597,Western Region,Hoima,Kapapi,2021,Identified,,,,,1.70499,31.333819,2489.02,16266.27,
+Uganda - Kikambajo - 1037598,1037598,Western Region,Hoima,Kiramya,2021,Identified,,,,,1.636795,31.33357,5330.35,33121.01,
+Uganda - Mpigiza - 1037606,1037606,Western Region,Hoima,Buhimba,2021,Identified,,,,,1.327931,31.400082,2092.54,14899.58,
+Uganda - Kitagasa - 1037607,1037607,Western Region,Hoima,Kikuube,2021,Identified,,,,,1.353684,31.224303,3610.4,20450.44,
+Uganda - Kyamukwere - 1037608,1037608,Western Region,Hoima,Kigorobya,2021,Identified,,,,,,,,,
+Uganda - Kijuura - 1037609,1037609,Western Region,Buliisa,Biiso,2021,Identified,,,,,1.748107,31.446271,2488.23,16616.28,
+Uganda - Nyamiranga - 1037610,1037610,Western Region,Hoima,Kiganja,2021,Identified,,,,,1.646585,31.331162,4842.5,30769.86,0
+Uganda - Kyambara - 1037635,1037635,Western Region,Hoima,Bughaya,2021,Identified,,,,,,,,,
+Uganda - Kyamukanga - 1040948,1040948,Western Region,Hoima,,2022,Identified,,,,,1.701329,31.346674,3318.77,18063.37,0
+Uganda - Magaba - 1050563,1050563,Western Region,Kabale,Ruhanga,2024,Identified,,,,,0.423744,32.666222,15120.45,174471.39,
+Uganda - Manyali Isalwa I - 1054277,1054277,Eastern Region,Bududa,Bukhwakwa,,Identified,,,,,1.032014,34.369565,,,
+Uganda - Buyi - 1041671,1041671,Eastern Region,Sironko,Buweri town council LHS- Budadili town council RHS,2023,Ready to Confirm,,,,,1.173063,34.316281,19309.1,78047.14,3550
+Uganda - Hakatoma- kyabashaho - 1042841,1042841,Western Region,Kabale,Kaharo,2024,Ready to Confirm,,,Suspended Bridge,52,-1.250716,30.073432,5188.23,26809.05,2900
+Uganda - Kahondo S S - 1044648,1044648,Western Region,Kabale,Maziba,2024,Ready to Confirm,,,,,-1.290838,30.152855,3259.96,23446.91,3000
+Uganda - Womulima - 1041663,1041663,Eastern Region,Sironko,Buhugu RHS-Budadili LHS,2025,Ready to Confirm,,,,,1.192809,34.303274,6565.22,73380.32,
+Uganda - Bumusi B- Nesome - 1041697,1041697,Eastern Region,Sironko,Buyobo-Buyobo,2025,Ready to Confirm,,,Suspension Bridge,64,1.166384,34.302711,9841.64,69609.95,5550
+Uganda - Nyankilo - 1012960,1012960,Western Region,Bundibugyo,Kirumya,2025,Ready to Confirm,,,Suspension Bridge,57,0.735176,30.059877,10712.74,64214.79,746
+Uganda - Tasale - 1041669,1041669,Eastern Region,Sironko,Busiita RHS-Bumasifwa LHS,2026,Ready to Confirm,,,Suspension Bridge,30,1.167008,34.349596,16267.4,75846.38,6800
+Uganda - Nakayomba - 1041672,1041672,Eastern Region,Sironko,Budadili LHS- Buhugu RHS,2026,Ready to Confirm,,,,,1.1851,34.315728,12888.88,80682.98,8100
+Uganda - Gizamba - 1041673,1041673,Eastern Region,Sironko,Budadili town council RHS-Buweri town council LHS,2026,Ready to Confirm,,,,,1.165978,34.32522,25932.77,76931.73,2700
+Uganda - Naluza - 1041674,1041674,Eastern Region,Sironko,Buweri town council RHS Namugambwe LHS,2026,Ready to Confirm,,,,,1.145397,34.31849,9212.6,75569.32,8900
+Uganda - Wandulu - 1041675,1041675,Eastern Region,Sironko,Buweri town council RHS-Buyobo town council LHS,2026,Ready to Confirm,,,,,1.164852,34.313523,16119.53,73696.16,3320
+Uganda - Kikolo-Wesamoyo - 1041678,1041678,Eastern Region,Sironko,Kama town council RHS- Bufumbo LHS,2026,Ready to Confirm,,,Suspended Bridge,53,1.123474,34.246471,14470.31,93776.59,1300
+Uganda - Lubumbwa - 1041691,1041691,Eastern Region,Sironko,Buwalasi LHS- Bukiyi RHS,2026,Ready to Confirm,,,,,1.160015,34.224552,11119.37,65796.3,1740
+Uganda - Koibei - 1011063,1011063,Eastern Region,Bukwa,,2017,Rejected,Technical,,,,1.255086,34.764555,3417,23569,1400
+Uganda - Karimukwon - 1011064,1011064,Eastern Region,Bukwa,,2017,Rejected,Technical,,,,1.243162,34.74399,4793,19163,2500
+Uganda - Kaptenis - 1011151,1011151,Eastern Region,Kween,Kiriki,2017,Rejected,Technical,,,,1.511343,34.67978,31,953,3100
+Uganda - Nashiyilila - 1012292,1012292,Eastern Region,Bududa,Bukigai,2017,Rejected,Technical,,,,1.015426,34.36121,20105,117118,650
+Uganda - Namuyeku - 1012293,1012293,Eastern Region,Bududa,Nakatsi,2017,Rejected,Technical,,,,1.06898,34.367084,17319,89573,3000
+Uganda - Bubiita-Lunza - 1012294,1012294,Eastern Region,Bududa,Nalwanza,2017,Rejected,Technical,,,,1.000727,34.362663,20303,100679,11900
+Uganda - Magwegwe - 1011724,1011724,Eastern Region,Sironko,Bumulisha,2017,Rejected,Technical,,,,1.220422,34.322738,9133,58231,5100
+Uganda - Namatondolo - 1011725,1011725,Eastern Region,Sironko,Bumulisha,2017,Rejected,Technical,,,,1.212318,34.315019,9896,57139,7600
+Uganda - Kiyanja - 1011726,1011726,Eastern Region,Sironko,Bukyiyi,2017,Rejected,Technical,,,,1.20663,34.23353,8142,55608,1200
+Uganda - Rubi - 1011803,1011803,Eastern Region,Sironko,Masaba,2017,Rejected,Technical,,,,1.132371,34.421984,3244,24359,2500
+Uganda - Liisi - 1011843,1011843,Eastern Region,Bududa,Bududa,2017,Rejected,Technical,,,,1.030283,34.30927,13820,84704,2345
+Uganda - Nakibi - 1011844,1011844,Eastern Region,Bududa,Bududa,2017,Rejected,Technical,,,,1.031075,34.317656,15814,94384,1200
+Uganda - Lugongo - 1011845,1011845,Eastern Region,Bududa,Bududa,2017,Rejected,Technical,,,,1.046598,34.318801,16500,81772,1820
+Uganda - Nangowa - 1011846,1011846,Eastern Region,Bududa,Bududa,2017,Rejected,Technical,,,,1.030977,34.322148,16479,100182,1250
+Uganda - Shikholo - 1011850,1011850,Eastern Region,Bududa,Bulucheke,2017,Rejected,Technical,,,,1.072313,34.383775,13885,70229,11000
+Uganda - Sakusaku - 1011851,1011851,Eastern Region,Bududa,Bulucheke,2017,Rejected,Technical,,,,1.073479,34.387112,12512,64392,24200
+Uganda - Nabirurwa shibombi - 1011852,1011852,Eastern Region,Bududa,Bushikia,2017,Rejected,Technical,,,,1.064928,34.320744,14121,73417,8620
+Uganda - Liisi - 1012049,1012049,Eastern Region,Bududa,Bumasheti,2017,Rejected,Technical,,,,1.008497,34.307297,15987,86500,
+Uganda - Busambibanda - 1012962,1012962,Western Region,Bundibugyo,Bukonzo,2017,Rejected,Technical,,,,0.716687,30.100315,7619.61,54756.65,1360
+Uganda - Kalebya II - 1012964,1012964,Western Region,Bundibugyo,Bukonzo,2017,Rejected,Technical,,,,0.684517,30.090303,3957.78,45029.1,1880
+Uganda - Kasodo - 1012965,1012965,Western Region,Bundibugyo,Kirumya,2017,Rejected,Technical,,,,0.749486,30.110519,6376.67,38196.58,5440
+Uganda - Kitsolima II - 1012966,1012966,Western Region,Bundibugyo,Harugale,2017,Rejected,Technical,,,,0.659703,30.050725,5155.42,35019.9,2200
+Uganda - Buyaya I - 1012970,1012970,Western Region,Bundibugyo,Ngamba,2017,Rejected,Technical,,,,0.750878,30.111937,6381.62,37559.1,5140
+Uganda - Chabbi - 1012681,1012681,Western Region,Bundibugyo,Nyahuka,2017,Rejected,Technical,,,,0.685106,29.994055,9363,51243,22000
+Uganda - Makwola-Busu - 1012684,1012684,Western Region,Bundibugyo,Nyahuka,2017,Rejected,Technical,,,,0.677802,29.982817,10873,48441,12000
+Uganda - Nyalulu - 1012685,1012685,Western Region,Bundibugyo,Harugale,2017,Rejected,Technical,,,,0.674027,30.067168,7946,55966,2530
+Uganda - Biibo - 1012745,1012745,Western Region,Bundibugyo,Harugale,2017,Rejected,Technical,,,,0.672019,30.08527,2670.38,35042.71,19400
+Uganda - Kitaraka - 1015936,1015936,Western Region,Kabale,Rwamucucu,2019,Rejected,Technical,,,,-1.126653,30.048267,3725.41,19542.94,18000
+Uganda - Bukhatsa - 1011590,1011590,Eastern Region,Bukhalu,Bukhalu,2019,Rejected,Technical,,,,1.308002,34.241758,2931,16826,3358
+Uganda - Butulya upper bridge - 1022736,1022736,Western Region,Kabarole,Karangura,2020,Rejected,Technical,,,,0.705787,30.183862,5769.48,30682.78,3980
+Uganda - Buhamwa-Kanyamura - 1022737,1022737,Western Region,Kabarole,Karangura,2020,Rejected,Technical,,,,0.687546,30.174183,4693.02,34492.39,3348
+Uganda - Nybabuswa - 1022727,1022727,Western Region,Kabarole,Mugusu,2021,Rejected,Technical,,Concrete (11 - 20m),,0.627991,30.166092,5450.61,33349.8,0
+Uganda - Kamabale A- Kamabale B - 1022730,1022730,Western Region,Kabarole,Karangura,2021,Rejected,Technical,,Culvert (10m or less),10,0.63191,30.157504,4971.88,28717.53,2724
+Uganda - Ireme-kashagazi - 1023081,1023081,Western Region,Ibanda,Bisheshe division,2021,Rejected,Technical,,Culvert (10m or less),9,-0.04336,30.54021,2298.56,17482.63,3858
+Uganda - Nyansozi-Kidukuru - 1025709,1025709,Western Region,Kabarole,Karambi,2021,Rejected,Technical,,,,0.640003,30.250785,13877.28,87050,0
+Uganda - Buhara-Kitangira - 1025794,1025794,Western Region,Kabarole,Kicwamba,2021,Rejected,Technical,,,,0.701746,30.223653,3799.2,38281.25,0
+Uganda - Buhara-Saaka - 1025797,1025797,Western Region,Kabarole,Kicwamba,2021,Rejected,Technical,,,,0.701557,30.242663,4948.61,39460.4,0
+Uganda - Kahondo-Kitangira - 1025798,1025798,Western Region,Kabarole,Kicwamba,2021,Rejected,Technical,,,,0.706855,30.220562,3746.64,35093.62,0
+Uganda - Katonzi-Kihara - 1036932,1036932,Western Region,Kasese,Kasese Municipal Council,2021,Rejected,Technical,,,,0.190383,30.063418,15065.31,86817.9,0
+Uganda - Busaiga- Geme - 1025718,1025718,Western Region,Kabarole,Harugongo,2023,Rejected,Technical,,,,0.73486,30.247866,3118.22,23103.6,0
+Uganda - Busaiga B - 1025721,1025721,Western Region,Kabarole,Harugongo,2023,Rejected,Technical,,Culvert (10m or less),,0.733175,30.252315,3319.99,23028.64,0
+Uganda - BWENGO KATHOLHU - 1026028,1026028,Western Region,Kasese,NYAKIYUMBU SUB-COUNTY,2023,Rejected,Technical,,,,-0.019547,29.772325,2445.03,23948.39,0
+Uganda - Nyamabare RHS_ Ndaragi LHS - 1041113,1041113,Western Region,Rukungiri,Nyakishenyi RHS -Nyakishenyi LHS,2023,Rejected,Technical,,,,-0.936782,29.866854,3456.55,19577.41,4342
+Uganda - Kabirizi- Nyangorogoro - 1043214,1043214,Western Region,Rubirizi,Ryeru- Magambo,2024,Rejected,Technical,,,,-0.276036,30.142681,3934.69,31934.83,370
+Uganda - Muchwamba - 1044556,1044556,Western Region,Kyenjojo,Bugaaki,2024,Rejected,Technical,,,,0.656734,30.454709,2889.71,20325.47,8
+Uganda - Rweygenyi - 1044652,1044652,Western Region,Kabale,Maziba,2024,Rejected,Technical,,,,-1.233164,30.156179,3166,22623.92,9
+Uganda - Karuruma - 1044554,1044554,Western Region,Kyenjojo,Kisojo,2024,Rejected,Vehicular Bridge Preferred,,,,0.396664,30.649165,2577.06,18764.8,0
+Uganda - Kanyamuningi - 1044555,1044555,Western Region,Kyenjojo,Kisojo,2024,Rejected,Vehicular Bridge Preferred,,,,0.371791,30.622213,2969.31,21486.27,30000
+Uganda - Kurongur - 1011062,1011062,Eastern Region,Bukwo,,2017,Rejected,Vehicular Bridge Required,,,,1.218214,34.744174,1545,8290,960
+Uganda - Mbigi - 1011582,1011582,Eastern Region,Bulambuli,Bulegeni,2020,Rejected,Vehicular Bridge Required,,Suspension Bridge,38,1.314375,34.312385,8074,46660,2720
+Uganda - Igayaza TC - Kibaale district - 1047481,1047481,Western Region,Kakumiro,Igayaza TC,2024,Rejected,Vehicular Bridge Required,,,,0.945055,31.121445,3545.9,23194,4250
+Uganda - Kabira- Nyakaina - 1042651,1042651,Western Region,Rukiga,Kamwezi,2025,Under Construction,,,Suspension Bridge,49,-1.234578,30.176667,3225.44,19715.27,800
+Uganda - Kyenyonga-kikaada - 1051995,1051995,Western Region,Kakumiro,Bwanswa-kasambya,2025,Under Construction,,,Hybrid Suspension Bridge,63,0.828051,31.29055,1628.79,11470.12,200
